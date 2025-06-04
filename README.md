@@ -61,4 +61,4 @@ This project demonstrates:
 2. Open the `Excel_Dashboard_Final_Output.xlsx` file in Excel.
 3. Explore the dashboard and understand the logic of KPIs and breakdown tables.
 
-<img src="dashboard_screenshot.png">
+<img src="dashboard_screenshot/dashboard_screenshot.png">
