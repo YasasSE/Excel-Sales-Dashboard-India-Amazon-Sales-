@@ -1,0 +1,1001 @@
+﻿Date,SalesRep,Product,Units,Price,Total Sale,City,State,Region,Day
+3/11/2013,Salvador Bass,Nestle Rolo Potz,3,350,1050,Delhi,Himachal Pradesh,South,Monday
+5/20/2013,Shari Silva,Nestle Rolo Potz,3,270,810,Pune,Karnataka,North,Monday
+1/17/2013,Max Rodgers,Nestle Milky Bar Stick,3,356,1068,Shimla,Himachal Pradesh,West,Thursday
+5/23/2013,Cecilia Manning,Nestle Maxibon Cookie,4,420,1680,Patna,West Bengal,West,Thursday
+4/8/2013,Cecilia Manning,Nestle Nobby Bobby,5,241,1205,Delhi,Uttarakhand,North,Monday
+7/3/2013,Shari Silva,Nestle Nobby Bobby,5,397,1985,Jodhpur,Rajasthan,North,Wednesday
+5/1/2013,Don Gonzales,Nestle Rolo Potz,2,409,818,Agra,Uttarakhand,West,Wednesday
+8/17/2013,Shari Silva,Nestle Smarties Pop-Up,1,375,375,Pune,Karnataka,South,Saturday
+7/17/2013,Rachel Gomez,Nestle Rolo Potz,5,397,1985,Cochin,Maharashtra,South,Wednesday
+2/23/2013,Max Rodgers,Nestle Rowntree Fruit Pastil,5,496,2480,Agra,Uttar Pradesh,South,Saturday
+2/19/2013,Cecilia Manning,Nestle Rowntree Fruit Pastil,5,430,2150,Nainital,Himachal Pradesh,North,Tuesday
+9/8/2013,Don Gonzales,Nestle Rowntree Fruit Pastil,3,367,1101,Ranchi,Uttarakhand,East,Sunday
+1/2/2013,Ruben Nunez,Nestle Nobby Bobby,5,215,1075,Cochin,Telangana,South,Wednesday
+7/8/2013,Don Gonzales,Nestle Smarties Pop-Up,5,262,1310,Patna,Goa,North,Monday
+5/1/2013,Max Rodgers,Nestle Nobby Bobby,5,421,2105,Durgapur,Kerala,West,Wednesday
+10/9/2013,Rachel Gomez,Nestle Smarties Pop-Up,5,237,1185,Nagpur,Jharkhand,South,Wednesday
+11/19/2013,Salvador Bass,Nestle Rowntree Fruit Pastil,1,248,248,Kolkata,Delhi,East,Tuesday
+6/12/2013,Don Gonzales,Nestle Maxibon Cookie,1,260,260,Shimla,Himachal Pradesh,East,Wednesday
+7/25/2013,Ruben Nunez,Nestle Smarties Pop-Up,4,381,1524,Patna,Jammu and Kashmir,West,Thursday
+7/19/2013,Cecilia Manning,Nestle Fab,2,304,608,Durgapur,Jammu and Kashmir,North,Friday
+5/17/2013,Cecilia Manning,Nestle Smarties Pop-Up,5,321,1605,Darjeeling,Jharkhand,East,Friday
+10/3/2013,Ruben Nunez,Nestle Rowntree Fruit Pastil,4,402,1608,Agra,Kerala,East,Thursday
+3/20/2013,Cecilia Manning,Nestle Rowntree Fruit Pastil,1,362,362,Nainital,Maharashtra,East,Wednesday
+10/20/2013,Don Gonzales,Nestle Kit Kat Cone,3,482,1446,Darjeeling,Kerala,East,Sunday
+12/26/2013,Trevor Jones,Nestle Rolo Potz,3,430,1290,Goa,Goa,West,Thursday
+6/26/2013,Isabel Cross,Nestle Rowntree Fruit Pastil,4,430,1720,Patna,Jharkhand,West,Wednesday
+4/22/2013,Don Gonzales,Nestle Maxibon Cookie,1,239,239,Delhi,Goa,West,Monday
+1/28/2013,Trevor Jones,Nestle Fab,1,351,351,Nagpur,Goa,West,Monday
+7/4/2013,Ruben Nunez,Nestle Kit Kat Cone,1,425,425,Agra,Rajasthan,East,Thursday
+9/11/2013,Isabel Cross,Nestle Nobby Bobby,3,307,921,Bangalore,Karnataka,West,Wednesday
+4/16/2013,Isabel Cross,Nestle Rowntree Fruit Pastil,4,322,1288,Pune,West Bengal,North,Tuesday
+4/23/2013,Trevor Jones,Nestle Maxibon Cookie,2,363,726,Jodhpur,Jharkhand,North,Tuesday
+3/14/2013,Rachel Gomez,Nestle Milky Bar Stick,5,455,2275,Mysore,Maharashtra,East,Thursday
+3/19/2013,Max Rodgers,Nestle Rowntree Fruit Pastil,1,309,309,Nagpur,Kerala,East,Tuesday
+4/23/2013,Cecilia Manning,Nestle Milky Bar Stick,5,282,1410,Mumbai,Uttarakhand,West,Tuesday
+7/3/2013,Rachel Gomez,Nestle Maxibon Cookie,1,304,304,Agra,Jammu and Kashmir,West,Wednesday
+3/10/2013,Cecilia Manning,Nestle Fab,5,347,1735,Delhi,Delhi,North,Sunday
+6/17/2013,Ruben Nunez,Nestle Smarties Pop-Up,4,266,1064,Bangalore,Jammu and Kashmir,West,Monday
+7/14/2013,Cecilia Manning,Nestle Rowntree Fruit Pastil,4,417,1668,Kolkata,Kerala,South,Sunday
+11/18/2013,Ruben Nunez,Nestle Rolo Potz,5,384,1920,Pune,Kerala,East,Monday
+1/22/2013,Salvador Bass,Nestle Aero Mint Potz,2,484,968,Ranchi,Jharkhand,North,Tuesday
+1/12/2013,Max Rodgers,Nestle Fab,1,317,317,Darjeeling,Jharkhand,West,Saturday
+11/27/2013,Trevor Jones,Nestle Maxibon Cookie,4,222,888,Delhi,Gujarat,West,Wednesday
+7/17/2013,Ruben Nunez,Nestle Nobby Bobby,3,472,1416,Patna,West Bengal,North,Wednesday
+4/6/2013,Rachel Gomez,Nestle Fab,3,413,1239,Bangalore,Rajasthan,East,Saturday
+10/20/2013,Ruben Nunez,Nestle Maxibon Cookie,5,496,2480,Darjeeling,Uttar Pradesh,West,Sunday
+11/3/2013,Christina Fuller,Nestle Smarties Pop-Up,3,322,966,Patna,Uttar Pradesh,North,Sunday
+10/8/2013,Ruben Nunez,Nestle Milky Bar Stick,3,261,783,Ahmedabad,Delhi,East,Tuesday
+2/21/2013,Ruben Nunez,Nestle Rolo Potz,4,310,1240,Kolkata,West Bengal,South,Thursday
+10/7/2013,Salvador Bass,Nestle Maxibon Cookie,4,253,1012,Nainital,Himachal Pradesh,North,Monday
+8/17/2013,Christina Fuller,Nestle Kit Kat Cone,3,236,708,Bangalore,Uttar Pradesh,East,Saturday
+6/12/2013,Trevor Jones,Nestle Rowntree Fruit Pastil,1,414,414,Mysore,Jharkhand,East,Wednesday
+1/18/2013,Don Gonzales,Nestle Smarties Pop-Up,4,461,1844,Delhi,Jammu and Kashmir,North,Friday
+5/15/2013,Shari Silva,Nestle Nobby Bobby,4,381,1524,Goa,Rajasthan,North,Wednesday
+7/26/2013,Ruben Nunez,Nestle Milky Bar Stick,2,387,774,Bangalore,Himachal Pradesh,East,Friday
+7/4/2013,Shari Silva,Nestle Aero Mint Potz,4,422,1688,Nainital,Uttar Pradesh,West,Thursday
+1/3/2013,Isabel Cross,Nestle Rolo Potz,5,228,1140,Cochin,West Bengal,North,Thursday
+10/20/2013,Isabel Cross,Nestle Kit Kat Cone,1,437,437,Goa,Maharashtra,West,Sunday
+4/20/2013,Ruben Nunez,Nestle Aero Mint Potz,5,409,2045,Pune,Kerala,North,Saturday
+8/19/2013,Don Gonzales,Nestle Fab,3,201,603,Cochin,Telangana,West,Monday
+8/14/2013,Don Gonzales,Nestle Rolo Potz,4,425,1700,Jodhpur,Rajasthan,North,Wednesday
+5/12/2013,Isabel Cross,Nestle Nobby Bobby,3,368,1104,Nagpur,Rajasthan,South,Sunday
+5/14/2013,Christina Fuller,Nestle Kit Kat Cone,2,279,558,Mumbai,Uttarakhand,South,Tuesday
+2/12/2013,Rachel Gomez,Nestle Kit Kat Cone,4,367,1468,Pune,Maharashtra,North,Tuesday
+1/6/2013,Cecilia Manning,Nestle Maxibon Cookie,3,327,981,Hyderabad,Delhi,East,Sunday
+12/17/2013,Rachel Gomez,Nestle Milky Bar Stick,3,441,1323,Ahmedabad,Uttar Pradesh,North,Tuesday
+7/8/2013,Christina Fuller,Nestle Rolo Potz,4,394,1576,Kolkata,Karnataka,South,Monday
+7/26/2013,Christina Fuller,Nestle Rowntree Fruit Pastil,5,395,1975,Agra,Maharashtra,North,Friday
+1/25/2013,Christina Fuller,Nestle Aero Mint Potz,2,392,784,Ranchi,Karnataka,South,Friday
+8/11/2013,Max Rodgers,Nestle Toffee Crumble,3,207,621,Ahmedabad,Karnataka,West,Sunday
+3/11/2013,Shari Silva,Nestle Maxibon Cookie,1,456,456,Ranchi,Himachal Pradesh,East,Monday
+2/10/2013,Don Gonzales,Nestle Rowntree Fruit Pastil,4,482,1928,Ahmedabad,Himachal Pradesh,South,Sunday
+4/19/2013,Rachel Gomez,Nestle Rowntree Fruit Pastil,5,412,2060,Pune,Kerala,West,Friday
+1/15/2013,Ruben Nunez,Nestle Milky Bar Stick,5,471,2355,Hyderabad,Kerala,South,Tuesday
+9/7/2013,Cecilia Manning,Nestle Maxibon Cookie,4,309,1236,Shimla,Kerala,East,Saturday
+4/14/2013,Salvador Bass,Nestle Nobby Bobby,2,413,826,Kolkata,Kerala,West,Sunday
+4/17/2013,Max Rodgers,Nestle Kit Kat Cone,3,295,885,Patna,Jammu and Kashmir,East,Wednesday
+3/3/2013,Don Gonzales,Nestle Rowntree Fruit Pastil,2,333,666,Pune,Gujarat,East,Sunday
+3/22/2013,Don Gonzales,Nestle Nobby Bobby,4,415,1660,Bangalore,Goa,North,Friday
+2/26/2013,Isabel Cross,Nestle Aero Mint Potz,5,326,1630,Shimla,Telangana,North,Tuesday
+11/5/2013,Max Rodgers,Nestle Rolo Potz,3,406,1218,Pune,West Bengal,South,Tuesday
+10/12/2013,Trevor Jones,Nestle Fab,2,236,472,Patna,Telangana,South,Saturday
+2/11/2013,Ruben Nunez,Nestle Rolo Potz,1,322,322,Mysore,Himachal Pradesh,West,Monday
+12/11/2013,Rachel Gomez,Nestle Fab,2,250,500,Goa,Rajasthan,West,Wednesday
+9/5/2013,Rachel Gomez,Nestle Toffee Crumble,4,346,1384,Mysore,Rajasthan,East,Thursday
+1/16/2013,Don Gonzales,Nestle Rolo Potz,4,462,1848,Durgapur,Uttar Pradesh,West,Wednesday
+6/10/2013,Christina Fuller,Nestle Maxibon Cookie,2,312,624,Agra,Uttarakhand,West,Monday
+10/25/2013,Isabel Cross,Nestle Fab,4,439,1756,Shimla,Uttarakhand,West,Friday
+2/12/2013,Salvador Bass,Nestle Smarties Pop-Up,1,442,442,Ranchi,Kerala,North,Tuesday
+11/10/2013,Rachel Gomez,Nestle Maxibon Cookie,2,363,726,Nagpur,Kerala,South,Sunday
+11/11/2013,Shari Silva,Nestle Maxibon Cookie,3,304,912,Pune,Uttarakhand,East,Monday
+7/2/2013,Trevor Jones,Nestle Milky Bar Stick,4,312,1248,Darjeeling,Jammu and Kashmir,South,Tuesday
+8/27/2013,Isabel Cross,Nestle Fab,2,304,608,Nagpur,Karnataka,West,Tuesday
+6/25/2013,Ruben Nunez,Nestle Nobby Bobby,3,367,1101,Srinagar,Uttarakhand,West,Tuesday
+1/27/2013,Trevor Jones,Nestle Nobby Bobby,5,473,2365,Ahmedabad,Karnataka,East,Sunday
+11/16/2013,Isabel Cross,Nestle Maxibon Cookie,2,348,696,Patna,Uttar Pradesh,North,Saturday
+9/18/2013,Cecilia Manning,Nestle Nobby Bobby,3,332,996,Ranchi,Telangana,East,Wednesday
+4/24/2013,Isabel Cross,Nestle Aero Mint Potz,1,292,292,Agra,West Bengal,West,Wednesday
+6/3/2013,Christina Fuller,Nestle Nobby Bobby,1,380,380,Cochin,Rajasthan,South,Monday
+7/22/2013,Max Rodgers,Nestle Nobby Bobby,1,279,279,Delhi,Goa,South,Monday
+10/17/2013,Isabel Cross,Nestle Milky Bar Stick,3,431,1293,Goa,Jammu and Kashmir,West,Thursday
+2/16/2013,Max Rodgers,Nestle Maxibon Cookie,4,476,1904,Ranchi,Karnataka,North,Saturday
+1/28/2013,Isabel Cross,Nestle Milky Bar Stick,3,297,891,Kolkata,Delhi,West,Monday
+2/24/2013,Shari Silva,Nestle Smarties Pop-Up,1,270,270,Goa,Delhi,North,Sunday
+9/16/2013,Trevor Jones,Nestle Rolo Potz,5,257,1285,Mumbai,Karnataka,North,Monday
+5/23/2013,Max Rodgers,Nestle Milky Bar Stick,1,497,497,Durgapur,Jammu and Kashmir,East,Thursday
+11/14/2013,Don Gonzales,Nestle Milky Bar Stick,4,382,1528,Ahmedabad,Kerala,West,Thursday
+1/18/2013,Don Gonzales,Nestle Fab,2,356,712,Agra,Himachal Pradesh,North,Friday
+7/7/2013,Cecilia Manning,Nestle Nobby Bobby,4,441,1764,Srinagar,Delhi,West,Sunday
+8/25/2013,Max Rodgers,Nestle Smarties Pop-Up,1,202,202,Goa,Goa,North,Sunday
+7/27/2013,Max Rodgers,Nestle Rowntree Fruit Pastil,1,287,287,Kolkata,Karnataka,East,Saturday
+2/22/2013,Don Gonzales,Nestle Maxibon Cookie,3,481,1443,Nainital,Jharkhand,West,Friday
+8/6/2013,Salvador Bass,Nestle Nobby Bobby,2,344,688,Mumbai,Jammu and Kashmir,East,Tuesday
+12/17/2013,Max Rodgers,Nestle Maxibon Cookie,5,314,1570,Nainital,Telangana,East,Tuesday
+10/16/2013,Max Rodgers,Nestle Smarties Pop-Up,5,432,2160,Ahmedabad,Maharashtra,North,Wednesday
+9/10/2013,Christina Fuller,Nestle Fab,1,224,224,Hyderabad,Uttar Pradesh,South,Tuesday
+12/25/2013,Rachel Gomez,Nestle Fab,4,237,948,Srinagar,Uttarakhand,West,Wednesday
+1/14/2013,Rachel Gomez,Nestle Nobby Bobby,2,287,574,Hyderabad,Karnataka,East,Monday
+12/12/2013,Trevor Jones,Nestle Aero Mint Potz,4,384,1536,Cochin,Telangana,East,Thursday
+12/2/2013,Ruben Nunez,Nestle Toffee Crumble,2,434,868,Pune,Karnataka,South,Monday
+12/9/2013,Rachel Gomez,Nestle Aero Mint Potz,4,398,1592,Bangalore,Uttar Pradesh,East,Monday
+4/17/2013,Christina Fuller,Nestle Fab,3,360,1080,Delhi,Kerala,South,Wednesday
+3/10/2013,Isabel Cross,Nestle Toffee Crumble,3,478,1434,Srinagar,West Bengal,North,Sunday
+6/9/2013,Christina Fuller,Nestle Maxibon Cookie,3,288,864,Kolkata,Telangana,West,Sunday
+10/13/2013,Max Rodgers,Nestle Kit Kat Cone,2,308,616,Hyderabad,Goa,West,Sunday
+4/12/2013,Salvador Bass,Nestle Toffee Crumble,2,416,832,Bangalore,West Bengal,East,Friday
+5/11/2013,Trevor Jones,Nestle Aero Mint Potz,4,362,1448,Goa,Karnataka,South,Saturday
+5/16/2013,Rachel Gomez,Nestle Maxibon Cookie,2,336,672,Srinagar,Telangana,North,Thursday
+10/13/2013,Don Gonzales,Nestle Aero Mint Potz,1,222,222,Goa,Maharashtra,South,Sunday
+12/5/2013,Rachel Gomez,Nestle Nobby Bobby,5,492,2460,Jodhpur,Jharkhand,North,Thursday
+1/24/2013,Ruben Nunez,Nestle Rolo Potz,4,327,1308,Ahmedabad,Jharkhand,South,Thursday
+2/22/2013,Salvador Bass,Nestle Aero Mint Potz,3,393,1179,Hyderabad,Kerala,South,Friday
+6/11/2013,Don Gonzales,Nestle Nobby Bobby,2,288,576,Mysore,Delhi,East,Tuesday
+10/7/2013,Trevor Jones,Nestle Rowntree Fruit Pastil,5,460,2300,Durgapur,Kerala,West,Monday
+5/17/2013,Ruben Nunez,Nestle Toffee Crumble,2,234,468,Hyderabad,Kerala,East,Friday
+2/22/2013,Christina Fuller,Nestle Milky Bar Stick,5,283,1415,Bangalore,Uttar Pradesh,North,Friday
+4/13/2013,Don Gonzales,Nestle Milky Bar Stick,5,466,2330,Ahmedabad,West Bengal,West,Saturday
+7/1/2013,Isabel Cross,Nestle Maxibon Cookie,1,436,436,Hyderabad,Karnataka,South,Monday
+2/27/2013,Isabel Cross,Nestle Aero Mint Potz,4,332,1328,Pune,Delhi,South,Wednesday
+6/7/2013,Rachel Gomez,Nestle Nobby Bobby,1,216,216,Agra,Karnataka,South,Friday
+2/23/2013,Max Rodgers,Nestle Fab,4,211,844,Cochin,West Bengal,South,Saturday
+9/15/2013,Christina Fuller,Nestle Rolo Potz,5,493,2465,Patna,Kerala,North,Sunday
+6/5/2013,Rachel Gomez,Nestle Smarties Pop-Up,5,258,1290,Patna,Karnataka,East,Wednesday
+6/1/2013,Isabel Cross,Nestle Smarties Pop-Up,2,409,818,Patna,Delhi,North,Saturday
+4/28/2013,Shari Silva,Nestle Smarties Pop-Up,2,420,840,Patna,Himachal Pradesh,East,Sunday
+2/11/2013,Salvador Bass,Nestle Maxibon Cookie,2,205,410,Srinagar,Karnataka,South,Monday
+7/4/2013,Shari Silva,Nestle Rowntree Fruit Pastil,3,381,1143,Srinagar,West Bengal,West,Thursday
+11/19/2013,Cecilia Manning,Nestle Smarties Pop-Up,3,407,1221,Ranchi,Kerala,North,Tuesday
+12/14/2013,Don Gonzales,Nestle Maxibon Cookie,1,289,289,Shimla,Maharashtra,North,Saturday
+10/6/2013,Christina Fuller,Nestle Rolo Potz,5,390,1950,Bangalore,Jammu and Kashmir,South,Sunday
+8/10/2013,Ruben Nunez,Nestle Fab,3,470,1410,Durgapur,Rajasthan,North,Saturday
+10/26/2013,Max Rodgers,Nestle Nobby Bobby,3,472,1416,Agra,Jammu and Kashmir,East,Saturday
+5/25/2013,Max Rodgers,Nestle Rolo Potz,4,384,1536,Cochin,Karnataka,South,Saturday
+10/22/2013,Trevor Jones,Nestle Kit Kat Cone,1,259,259,Goa,Kerala,West,Tuesday
+10/11/2013,Ruben Nunez,Nestle Toffee Crumble,4,325,1300,Ranchi,Jammu and Kashmir,East,Friday
+11/20/2013,Trevor Jones,Nestle Toffee Crumble,1,207,207,Bangalore,Jharkhand,South,Wednesday
+11/2/2013,Rachel Gomez,Nestle Rowntree Fruit Pastil,3,328,984,Kolkata,Goa,South,Saturday
+10/12/2013,Christina Fuller,Nestle Kit Kat Cone,2,446,892,Bangalore,West Bengal,North,Saturday
+5/24/2013,Max Rodgers,Nestle Smarties Pop-Up,1,420,420,Hyderabad,Goa,East,Friday
+3/17/2013,Shari Silva,Nestle Toffee Crumble,5,476,2380,Ranchi,Maharashtra,West,Sunday
+8/1/2013,Max Rodgers,Nestle Aero Mint Potz,1,366,366,Mysore,Delhi,North,Thursday
+4/22/2013,Don Gonzales,Nestle Fab,4,330,1320,Patna,Jammu and Kashmir,North,Monday
+10/11/2013,Salvador Bass,Nestle Kit Kat Cone,1,318,318,Ahmedabad,Karnataka,East,Friday
+9/5/2013,Salvador Bass,Nestle Nobby Bobby,1,285,285,Durgapur,Goa,North,Thursday
+9/18/2013,Cecilia Manning,Nestle Maxibon Cookie,2,378,756,Nagpur,Maharashtra,West,Wednesday
+12/22/2013,Isabel Cross,Nestle Kit Kat Cone,3,262,786,Bangalore,Telangana,South,Sunday
+3/19/2013,Rachel Gomez,Nestle Kit Kat Cone,2,366,732,Kolkata,Karnataka,East,Tuesday
+8/17/2013,Trevor Jones,Nestle Aero Mint Potz,4,311,1244,Goa,Goa,North,Saturday
+7/15/2013,Isabel Cross,Nestle Fab,2,346,692,Goa,Uttar Pradesh,West,Monday
+6/3/2013,Isabel Cross,Nestle Rowntree Fruit Pastil,3,498,1494,Nagpur,Himachal Pradesh,North,Monday
+2/13/2013,Shari Silva,Nestle Rowntree Fruit Pastil,4,257,1028,Durgapur,Gujarat,North,Wednesday
+6/5/2013,Trevor Jones,Nestle Kit Kat Cone,5,264,1320,Bangalore,Telangana,North,Wednesday
+6/7/2013,Max Rodgers,Nestle Rolo Potz,4,338,1352,Jodhpur,Rajasthan,South,Friday
+7/19/2013,Max Rodgers,Nestle Toffee Crumble,1,426,426,Srinagar,Gujarat,North,Friday
+6/1/2013,Shari Silva,Nestle Toffee Crumble,3,452,1356,Ahmedabad,Maharashtra,North,Saturday
+10/16/2013,Trevor Jones,Nestle Nobby Bobby,5,419,2095,Cochin,Goa,West,Wednesday
+5/6/2013,Isabel Cross,Nestle Nobby Bobby,5,212,1060,Cochin,Uttar Pradesh,South,Monday
+7/3/2013,Trevor Jones,Nestle Kit Kat Cone,1,402,402,Jodhpur,Maharashtra,South,Wednesday
+5/27/2013,Christina Fuller,Nestle Maxibon Cookie,2,217,434,Pune,Gujarat,South,Monday
+10/5/2013,Rachel Gomez,Nestle Smarties Pop-Up,4,321,1284,Nainital,Jammu and Kashmir,South,Saturday
+2/20/2013,Cecilia Manning,Nestle Rowntree Fruit Pastil,1,280,280,Bangalore,Jharkhand,East,Wednesday
+6/8/2013,Max Rodgers,Nestle Rowntree Fruit Pastil,4,292,1168,Durgapur,Jammu and Kashmir,South,Saturday
+8/26/2013,Salvador Bass,Nestle Maxibon Cookie,1,308,308,Hyderabad,West Bengal,East,Monday
+5/5/2013,Cecilia Manning,Nestle Aero Mint Potz,2,492,984,Srinagar,West Bengal,South,Sunday
+4/28/2013,Rachel Gomez,Nestle Milky Bar Stick,1,500,500,Ranchi,Maharashtra,South,Sunday
+10/2/2013,Salvador Bass,Nestle Nobby Bobby,3,342,1026,Pune,Goa,South,Wednesday
+12/27/2013,Rachel Gomez,Nestle Rolo Potz,5,499,2495,Shimla,Rajasthan,South,Friday
+10/1/2013,Isabel Cross,Nestle Kit Kat Cone,2,347,694,Goa,Rajasthan,East,Tuesday
+11/1/2013,Shari Silva,Nestle Fab,1,406,406,Jodhpur,Jammu and Kashmir,North,Friday
+3/20/2013,Salvador Bass,Nestle Rolo Potz,3,284,852,Cochin,Uttar Pradesh,North,Wednesday
+4/11/2013,Max Rodgers,Nestle Rolo Potz,2,453,906,Agra,Himachal Pradesh,North,Thursday
+8/2/2013,Isabel Cross,Nestle Aero Mint Potz,3,420,1260,Pune,Gujarat,West,Friday
+12/9/2013,Ruben Nunez,Nestle Rowntree Fruit Pastil,2,313,626,Ahmedabad,Kerala,South,Monday
+8/7/2013,Cecilia Manning,Nestle Maxibon Cookie,2,328,656,Jodhpur,Uttarakhand,East,Wednesday
+10/10/2013,Rachel Gomez,Nestle Milky Bar Stick,3,213,639,Srinagar,Goa,West,Thursday
+3/15/2013,Max Rodgers,Nestle Maxibon Cookie,4,370,1480,Agra,Jammu and Kashmir,East,Friday
+12/19/2013,Don Gonzales,Nestle Rolo Potz,1,266,266,Ranchi,Jammu and Kashmir,West,Thursday
+6/20/2013,Shari Silva,Nestle Aero Mint Potz,3,372,1116,Durgapur,Delhi,East,Thursday
+9/17/2013,Max Rodgers,Nestle Maxibon Cookie,1,328,328,Mysore,Jharkhand,North,Tuesday
+8/4/2013,Max Rodgers,Nestle Kit Kat Cone,4,428,1712,Durgapur,Maharashtra,West,Sunday
+8/5/2013,Shari Silva,Nestle Rolo Potz,1,318,318,Mysore,Gujarat,South,Monday
+6/28/2013,Isabel Cross,Nestle Kit Kat Cone,5,264,1320,Patna,West Bengal,North,Friday
+11/11/2013,Shari Silva,Nestle Milky Bar Stick,2,376,752,Mysore,West Bengal,North,Monday
+4/11/2013,Christina Fuller,Nestle Kit Kat Cone,2,428,856,Nagpur,Telangana,West,Thursday
+2/19/2013,Isabel Cross,Nestle Kit Kat Cone,2,344,688,Nainital,Karnataka,North,Tuesday
+11/24/2013,Trevor Jones,Nestle Fab,1,287,287,Patna,Maharashtra,North,Sunday
+1/7/2013,Isabel Cross,Nestle Milky Bar Stick,5,208,1040,Darjeeling,Karnataka,North,Monday
+12/5/2013,Shari Silva,Nestle Nobby Bobby,2,302,604,Bangalore,Telangana,North,Thursday
+4/18/2013,Christina Fuller,Nestle Kit Kat Cone,3,337,1011,Goa,Delhi,North,Thursday
+2/23/2013,Trevor Jones,Nestle Maxibon Cookie,5,389,1945,Pune,West Bengal,North,Saturday
+11/5/2013,Shari Silva,Nestle Rolo Potz,1,464,464,Nagpur,Himachal Pradesh,South,Tuesday
+9/4/2013,Ruben Nunez,Nestle Kit Kat Cone,3,413,1239,Delhi,Karnataka,East,Wednesday
+4/18/2013,Christina Fuller,Nestle Rowntree Fruit Pastil,2,426,852,Mysore,Kerala,East,Thursday
+5/24/2013,Shari Silva,Nestle Rowntree Fruit Pastil,3,350,1050,Ranchi,Jammu and Kashmir,West,Friday
+5/1/2013,Rachel Gomez,Nestle Fab,1,252,252,Mysore,Jammu and Kashmir,West,Wednesday
+3/6/2013,Salvador Bass,Nestle Aero Mint Potz,5,297,1485,Delhi,West Bengal,West,Wednesday
+6/20/2013,Salvador Bass,Nestle Toffee Crumble,2,376,752,Agra,West Bengal,East,Thursday
+9/15/2013,Salvador Bass,Nestle Aero Mint Potz,3,412,1236,Patna,Kerala,East,Sunday
+12/25/2013,Salvador Bass,Nestle Aero Mint Potz,4,414,1656,Ranchi,Uttar Pradesh,East,Wednesday
+7/17/2013,Christina Fuller,Nestle Rowntree Fruit Pastil,5,449,2245,Mumbai,Delhi,East,Wednesday
+5/28/2013,Shari Silva,Nestle Nobby Bobby,2,409,818,Durgapur,Gujarat,East,Tuesday
+11/26/2013,Rachel Gomez,Nestle Aero Mint Potz,2,478,956,Pune,Telangana,South,Tuesday
+8/22/2013,Christina Fuller,Nestle Rolo Potz,5,372,1860,Mysore,Delhi,South,Thursday
+6/14/2013,Shari Silva,Nestle Smarties Pop-Up,1,235,235,Bangalore,Himachal Pradesh,South,Friday
+2/17/2013,Isabel Cross,Nestle Fab,2,317,634,Srinagar,Delhi,East,Sunday
+2/5/2013,Ruben Nunez,Nestle Smarties Pop-Up,3,247,741,Patna,Jharkhand,South,Tuesday
+12/12/2013,Trevor Jones,Nestle Aero Mint Potz,3,308,924,Agra,Jharkhand,North,Thursday
+10/27/2013,Max Rodgers,Nestle Fab,2,400,800,Mysore,Rajasthan,West,Sunday
+2/5/2013,Don Gonzales,Nestle Rowntree Fruit Pastil,3,457,1371,Ahmedabad,Uttarakhand,West,Tuesday
+6/13/2013,Don Gonzales,Nestle Nobby Bobby,1,234,234,Patna,Jharkhand,North,Thursday
+6/21/2013,Don Gonzales,Nestle Smarties Pop-Up,3,310,930,Mysore,Karnataka,North,Friday
+4/2/2013,Cecilia Manning,Nestle Kit Kat Cone,3,406,1218,Kolkata,Gujarat,North,Tuesday
+3/21/2013,Shari Silva,Nestle Aero Mint Potz,2,298,596,Delhi,Jammu and Kashmir,West,Thursday
+8/6/2013,Don Gonzales,Nestle Kit Kat Cone,5,337,1685,Jodhpur,Goa,East,Tuesday
+6/16/2013,Max Rodgers,Nestle Kit Kat Cone,2,413,826,Durgapur,West Bengal,North,Sunday
+11/4/2013,Max Rodgers,Nestle Maxibon Cookie,5,406,2030,Kolkata,Uttar Pradesh,North,Monday
+11/12/2013,Trevor Jones,Nestle Toffee Crumble,4,455,1820,Ranchi,Goa,North,Tuesday
+5/3/2013,Don Gonzales,Nestle Nobby Bobby,3,273,819,Agra,Gujarat,West,Friday
+9/28/2013,Christina Fuller,Nestle Rowntree Fruit Pastil,5,457,2285,Pune,Uttar Pradesh,North,Saturday
+5/20/2013,Rachel Gomez,Nestle Milky Bar Stick,3,342,1026,Ahmedabad,Jammu and Kashmir,South,Monday
+5/16/2013,Cecilia Manning,Nestle Maxibon Cookie,1,489,489,Mysore,Kerala,North,Thursday
+10/12/2013,Max Rodgers,Nestle Kit Kat Cone,3,266,798,Shimla,Uttar Pradesh,North,Saturday
+3/1/2013,Rachel Gomez,Nestle Rolo Potz,4,396,1584,Darjeeling,Goa,West,Friday
+4/14/2013,Trevor Jones,Nestle Fab,3,351,1053,Cochin,Rajasthan,South,Sunday
+11/14/2013,Rachel Gomez,Nestle Milky Bar Stick,5,280,1400,Ranchi,Telangana,North,Thursday
+2/19/2013,Shari Silva,Nestle Toffee Crumble,4,237,948,Bangalore,Karnataka,South,Tuesday
+11/20/2013,Cecilia Manning,Nestle Rowntree Fruit Pastil,1,452,452,Ranchi,Kerala,North,Wednesday
+11/19/2013,Rachel Gomez,Nestle Milky Bar Stick,3,398,1194,Patna,Kerala,South,Tuesday
+12/14/2013,Ruben Nunez,Nestle Smarties Pop-Up,2,246,492,Cochin,Himachal Pradesh,North,Saturday
+8/2/2013,Shari Silva,Nestle Kit Kat Cone,3,493,1479,Durgapur,Himachal Pradesh,North,Friday
+12/19/2013,Ruben Nunez,Nestle Toffee Crumble,1,214,214,Srinagar,Karnataka,North,Thursday
+8/7/2013,Cecilia Manning,Nestle Nobby Bobby,3,261,783,Shimla,Jammu and Kashmir,East,Wednesday
+5/10/2013,Don Gonzales,Nestle Toffee Crumble,2,495,990,Durgapur,Rajasthan,East,Friday
+11/9/2013,Shari Silva,Nestle Rowntree Fruit Pastil,4,473,1892,Pune,West Bengal,East,Saturday
+12/22/2013,Ruben Nunez,Nestle Fab,4,287,1148,Goa,Delhi,South,Sunday
+8/11/2013,Isabel Cross,Nestle Toffee Crumble,2,316,632,Hyderabad,Maharashtra,South,Sunday
+9/24/2013,Cecilia Manning,Nestle Nobby Bobby,5,303,1515,Goa,Uttar Pradesh,East,Tuesday
+7/2/2013,Ruben Nunez,Nestle Nobby Bobby,3,474,1422,Patna,Himachal Pradesh,North,Tuesday
+3/19/2013,Isabel Cross,Nestle Rolo Potz,4,320,1280,Pune,Telangana,South,Tuesday
+6/4/2013,Ruben Nunez,Nestle Rowntree Fruit Pastil,5,484,2420,Hyderabad,Karnataka,North,Tuesday
+11/4/2013,Shari Silva,Nestle Aero Mint Potz,5,233,1165,Mumbai,Goa,West,Monday
+10/8/2013,Ruben Nunez,Nestle Milky Bar Stick,4,303,1212,Mumbai,Jharkhand,North,Tuesday
+6/21/2013,Rachel Gomez,Nestle Maxibon Cookie,3,500,1500,Nainital,Telangana,South,Friday
+2/20/2013,Christina Fuller,Nestle Rowntree Fruit Pastil,5,339,1695,Ranchi,Jharkhand,South,Wednesday
+6/20/2013,Isabel Cross,Nestle Maxibon Cookie,1,420,420,Durgapur,Goa,North,Thursday
+2/2/2013,Rachel Gomez,Nestle Kit Kat Cone,4,283,1132,Bangalore,Delhi,West,Saturday
+3/5/2013,Ruben Nunez,Nestle Maxibon Cookie,1,342,342,Agra,Rajasthan,West,Tuesday
+11/21/2013,Isabel Cross,Nestle Fab,1,247,247,Goa,Telangana,South,Thursday
+5/28/2013,Christina Fuller,Nestle Milky Bar Stick,1,350,350,Nagpur,Jammu and Kashmir,East,Tuesday
+10/7/2013,Rachel Gomez,Nestle Smarties Pop-Up,5,487,2435,Agra,Gujarat,North,Monday
+8/24/2013,Rachel Gomez,Nestle Toffee Crumble,3,346,1038,Goa,Delhi,North,Saturday
+4/25/2013,Isabel Cross,Nestle Smarties Pop-Up,5,306,1530,Agra,Telangana,West,Thursday
+2/23/2013,Max Rodgers,Nestle Smarties Pop-Up,5,428,2140,Ranchi,Jharkhand,South,Saturday
+11/13/2013,Ruben Nunez,Nestle Smarties Pop-Up,5,239,1195,Nainital,West Bengal,South,Wednesday
+6/20/2013,Cecilia Manning,Nestle Maxibon Cookie,2,207,414,Nagpur,Telangana,North,Thursday
+4/4/2013,Max Rodgers,Nestle Aero Mint Potz,4,432,1728,Patna,Goa,South,Thursday
+3/3/2013,Shari Silva,Nestle Fab,5,270,1350,Delhi,Rajasthan,East,Sunday
+11/17/2013,Rachel Gomez,Nestle Rowntree Fruit Pastil,3,254,762,Bangalore,Maharashtra,West,Sunday
+12/15/2013,Rachel Gomez,Nestle Maxibon Cookie,1,448,448,Hyderabad,Jharkhand,North,Sunday
+10/11/2013,Don Gonzales,Nestle Maxibon Cookie,1,246,246,Patna,Karnataka,East,Friday
+1/22/2013,Salvador Bass,Nestle Nobby Bobby,3,395,1185,Ranchi,Gujarat,West,Tuesday
+8/18/2013,Isabel Cross,Nestle Rowntree Fruit Pastil,2,212,424,Hyderabad,West Bengal,South,Sunday
+5/5/2013,Don Gonzales,Nestle Fab,1,290,290,Ranchi,Goa,East,Sunday
+9/25/2013,Cecilia Manning,Nestle Fab,3,374,1122,Pune,West Bengal,East,Wednesday
+10/6/2013,Rachel Gomez,Nestle Rowntree Fruit Pastil,2,366,732,Cochin,Uttar Pradesh,South,Sunday
+1/20/2013,Ruben Nunez,Nestle Milky Bar Stick,4,277,1108,Mumbai,Jammu and Kashmir,South,Sunday
+4/14/2013,Shari Silva,Nestle Fab,2,297,594,Jodhpur,West Bengal,East,Sunday
+4/13/2013,Shari Silva,Nestle Nobby Bobby,1,490,490,Hyderabad,West Bengal,South,Saturday
+6/24/2013,Trevor Jones,Nestle Milky Bar Stick,5,446,2230,Hyderabad,Jharkhand,North,Monday
+9/20/2013,Trevor Jones,Nestle Rowntree Fruit Pastil,2,342,684,Cochin,Jharkhand,South,Friday
+9/16/2013,Trevor Jones,Nestle Fab,4,335,1340,Bangalore,Gujarat,North,Monday
+12/27/2013,Ruben Nunez,Nestle Fab,1,353,353,Agra,Uttar Pradesh,West,Friday
+1/19/2013,Shari Silva,Nestle Maxibon Cookie,2,284,568,Bangalore,West Bengal,South,Saturday
+11/22/2013,Cecilia Manning,Nestle Rolo Potz,2,295,590,Srinagar,Goa,South,Friday
+2/9/2013,Don Gonzales,Nestle Maxibon Cookie,3,420,1260,Mumbai,Kerala,South,Saturday
+8/22/2013,Max Rodgers,Nestle Rowntree Fruit Pastil,3,215,645,Jodhpur,Uttarakhand,South,Thursday
+11/8/2013,Trevor Jones,Nestle Kit Kat Cone,3,319,957,Srinagar,Uttar Pradesh,South,Friday
+11/14/2013,Don Gonzales,Nestle Milky Bar Stick,1,256,256,Cochin,Delhi,West,Thursday
+4/27/2013,Salvador Bass,Nestle Toffee Crumble,4,409,1636,Delhi,West Bengal,West,Saturday
+5/2/2013,Don Gonzales,Nestle Nobby Bobby,4,495,1980,Mumbai,Gujarat,West,Thursday
+1/2/2013,Trevor Jones,Nestle Kit Kat Cone,4,333,1332,Srinagar,Himachal Pradesh,South,Wednesday
+3/5/2013,Rachel Gomez,Nestle Rowntree Fruit Pastil,3,312,936,Kolkata,Uttar Pradesh,West,Tuesday
+12/10/2013,Salvador Bass,Nestle Maxibon Cookie,1,350,350,Nainital,Himachal Pradesh,North,Tuesday
+8/25/2013,Ruben Nunez,Nestle Rolo Potz,4,351,1404,Kolkata,Rajasthan,West,Sunday
+8/26/2013,Max Rodgers,Nestle Fab,1,428,428,Ahmedabad,Karnataka,East,Monday
+5/25/2013,Ruben Nunez,Nestle Kit Kat Cone,2,436,872,Jodhpur,Jammu and Kashmir,West,Saturday
+11/18/2013,Trevor Jones,Nestle Maxibon Cookie,3,470,1410,Srinagar,Uttar Pradesh,South,Monday
+11/16/2013,Isabel Cross,Nestle Aero Mint Potz,1,201,201,Ranchi,Himachal Pradesh,West,Saturday
+6/20/2013,Shari Silva,Nestle Aero Mint Potz,4,377,1508,Durgapur,Maharashtra,South,Thursday
+11/23/2013,Max Rodgers,Nestle Maxibon Cookie,5,368,1840,Goa,Uttarakhand,West,Saturday
+1/10/2013,Isabel Cross,Nestle Rowntree Fruit Pastil,1,460,460,Bangalore,Delhi,West,Thursday
+9/21/2013,Isabel Cross,Nestle Rolo Potz,2,302,604,Ahmedabad,Karnataka,East,Saturday
+4/28/2013,Cecilia Manning,Nestle Smarties Pop-Up,4,305,1220,Darjeeling,Uttar Pradesh,South,Sunday
+11/8/2013,Isabel Cross,Nestle Kit Kat Cone,1,285,285,Darjeeling,Himachal Pradesh,East,Friday
+6/12/2013,Christina Fuller,Nestle Nobby Bobby,4,226,904,Ahmedabad,Kerala,East,Wednesday
+11/19/2013,Rachel Gomez,Nestle Rowntree Fruit Pastil,4,411,1644,Darjeeling,West Bengal,North,Tuesday
+12/4/2013,Salvador Bass,Nestle Toffee Crumble,2,404,808,Ahmedabad,Goa,East,Wednesday
+1/24/2013,Cecilia Manning,Nestle Toffee Crumble,1,341,341,Patna,Maharashtra,East,Thursday
+10/2/2013,Ruben Nunez,Nestle Toffee Crumble,5,238,1190,Patna,Delhi,West,Wednesday
+4/19/2013,Don Gonzales,Nestle Milky Bar Stick,1,257,257,Goa,Himachal Pradesh,East,Friday
+12/11/2013,Rachel Gomez,Nestle Smarties Pop-Up,4,213,852,Agra,Delhi,North,Wednesday
+5/4/2013,Max Rodgers,Nestle Rowntree Fruit Pastil,4,251,1004,Mysore,Uttar Pradesh,West,Saturday
+12/16/2013,Ruben Nunez,Nestle Rowntree Fruit Pastil,5,388,1940,Ahmedabad,Telangana,North,Monday
+10/17/2013,Max Rodgers,Nestle Maxibon Cookie,5,364,1820,Nainital,Maharashtra,East,Thursday
+11/10/2013,Rachel Gomez,Nestle Maxibon Cookie,1,339,339,Mysore,Rajasthan,East,Sunday
+10/10/2013,Don Gonzales,Nestle Rowntree Fruit Pastil,3,232,696,Darjeeling,Maharashtra,South,Thursday
+6/7/2013,Isabel Cross,Nestle Kit Kat Cone,1,202,202,Mysore,Telangana,North,Friday
+2/12/2013,Salvador Bass,Nestle Rolo Potz,1,308,308,Darjeeling,Goa,North,Tuesday
+5/18/2013,Max Rodgers,Nestle Fab,2,232,464,Bangalore,Gujarat,North,Saturday
+4/10/2013,Salvador Bass,Nestle Milky Bar Stick,2,490,980,Nainital,Jammu and Kashmir,South,Wednesday
+11/6/2013,Isabel Cross,Nestle Nobby Bobby,4,415,1660,Ahmedabad,Rajasthan,South,Wednesday
+1/23/2013,Rachel Gomez,Nestle Smarties Pop-Up,4,219,876,Ranchi,Himachal Pradesh,North,Wednesday
+10/4/2013,Ruben Nunez,Nestle Toffee Crumble,4,437,1748,Srinagar,Kerala,South,Friday
+11/4/2013,Don Gonzales,Nestle Nobby Bobby,1,415,415,Nainital,Uttar Pradesh,West,Monday
+7/7/2013,Salvador Bass,Nestle Toffee Crumble,1,377,377,Nainital,Kerala,South,Sunday
+7/27/2013,Salvador Bass,Nestle Rolo Potz,3,366,1098,Cochin,West Bengal,North,Saturday
+9/9/2013,Don Gonzales,Nestle Nobby Bobby,3,461,1383,Goa,Jharkhand,North,Monday
+2/15/2013,Cecilia Manning,Nestle Rowntree Fruit Pastil,5,389,1945,Kolkata,Uttar Pradesh,South,Friday
+2/8/2013,Christina Fuller,Nestle Milky Bar Stick,2,338,676,Jodhpur,Goa,North,Friday
+6/20/2013,Ruben Nunez,Nestle Milky Bar Stick,5,217,1085,Goa,Karnataka,South,Thursday
+3/15/2013,Trevor Jones,Nestle Toffee Crumble,2,239,478,Durgapur,Delhi,South,Friday
+1/19/2013,Don Gonzales,Nestle Aero Mint Potz,4,232,928,Ahmedabad,Jharkhand,West,Saturday
+5/16/2013,Cecilia Manning,Nestle Milky Bar Stick,1,210,210,Cochin,Kerala,West,Thursday
+4/12/2013,Max Rodgers,Nestle Smarties Pop-Up,3,376,1128,Srinagar,Uttar Pradesh,North,Friday
+6/4/2013,Rachel Gomez,Nestle Smarties Pop-Up,4,206,824,Jodhpur,Himachal Pradesh,South,Tuesday
+5/27/2013,Christina Fuller,Nestle Nobby Bobby,5,388,1940,Goa,Telangana,South,Monday
+5/22/2013,Trevor Jones,Nestle Maxibon Cookie,2,284,568,Bangalore,Telangana,West,Wednesday
+2/4/2013,Rachel Gomez,Nestle Milky Bar Stick,1,245,245,Mysore,Kerala,West,Monday
+11/20/2013,Isabel Cross,Nestle Rolo Potz,5,335,1675,Hyderabad,Goa,East,Wednesday
+2/13/2013,Shari Silva,Nestle Maxibon Cookie,5,280,1400,Patna,Gujarat,West,Wednesday
+11/20/2013,Max Rodgers,Nestle Fab,2,430,860,Bangalore,Uttarakhand,North,Wednesday
+1/3/2013,Christina Fuller,Nestle Maxibon Cookie,3,242,726,Patna,Himachal Pradesh,East,Thursday
+4/16/2013,Don Gonzales,Nestle Smarties Pop-Up,2,346,692,Srinagar,Kerala,North,Tuesday
+12/12/2013,Trevor Jones,Nestle Fab,1,481,481,Bangalore,Rajasthan,East,Thursday
+10/1/2013,Trevor Jones,Nestle Nobby Bobby,2,483,966,Bangalore,Kerala,East,Tuesday
+11/8/2013,Isabel Cross,Nestle Fab,1,482,482,Jodhpur,Jammu and Kashmir,West,Friday
+1/10/2013,Isabel Cross,Nestle Aero Mint Potz,4,318,1272,Bangalore,Himachal Pradesh,East,Thursday
+3/13/2013,Shari Silva,Nestle Fab,3,456,1368,Ahmedabad,Maharashtra,South,Wednesday
+6/25/2013,Cecilia Manning,Nestle Milky Bar Stick,3,204,612,Ranchi,Jharkhand,South,Tuesday
+9/13/2013,Trevor Jones,Nestle Kit Kat Cone,1,276,276,Ahmedabad,Delhi,South,Friday
+1/19/2013,Don Gonzales,Nestle Maxibon Cookie,4,480,1920,Mumbai,Karnataka,South,Saturday
+5/18/2013,Trevor Jones,Nestle Aero Mint Potz,1,391,391,Patna,Delhi,North,Saturday
+12/5/2013,Shari Silva,Nestle Aero Mint Potz,5,227,1135,Goa,West Bengal,South,Thursday
+4/27/2013,Rachel Gomez,Nestle Fab,2,441,882,Hyderabad,Gujarat,West,Saturday
+9/13/2013,Salvador Bass,Nestle Nobby Bobby,1,496,496,Bangalore,Delhi,North,Friday
+1/23/2013,Christina Fuller,Nestle Aero Mint Potz,2,409,818,Ahmedabad,Uttar Pradesh,West,Wednesday
+8/12/2013,Isabel Cross,Nestle Maxibon Cookie,2,303,606,Shimla,West Bengal,South,Monday
+12/15/2013,Isabel Cross,Nestle Rolo Potz,4,366,1464,Darjeeling,Goa,East,Sunday
+2/5/2013,Cecilia Manning,Nestle Aero Mint Potz,3,318,954,Ranchi,Goa,North,Tuesday
+7/26/2013,Ruben Nunez,Nestle Nobby Bobby,3,365,1095,Ranchi,Karnataka,South,Friday
+4/3/2013,Shari Silva,Nestle Toffee Crumble,1,246,246,Kolkata,Telangana,North,Wednesday
+3/23/2013,Rachel Gomez,Nestle Nobby Bobby,5,463,2315,Srinagar,Kerala,North,Saturday
+5/15/2013,Don Gonzales,Nestle Aero Mint Potz,1,340,340,Kolkata,Rajasthan,South,Wednesday
+10/6/2013,Christina Fuller,Nestle Fab,1,307,307,Jodhpur,Kerala,West,Sunday
+3/12/2013,Max Rodgers,Nestle Kit Kat Cone,2,464,928,Nagpur,Jharkhand,North,Tuesday
+5/4/2013,Shari Silva,Nestle Aero Mint Potz,5,256,1280,Delhi,Goa,South,Saturday
+12/7/2013,Trevor Jones,Nestle Aero Mint Potz,4,314,1256,Darjeeling,Gujarat,West,Saturday
+9/21/2013,Christina Fuller,Nestle Aero Mint Potz,2,281,562,Mumbai,Karnataka,North,Saturday
+8/18/2013,Don Gonzales,Nestle Kit Kat Cone,4,446,1784,Kolkata,Rajasthan,East,Sunday
+1/1/2013,Salvador Bass,Nestle Aero Mint Potz,2,482,964,Pune,Kerala,North,Tuesday
+5/7/2013,Cecilia Manning,Nestle Fab,1,473,473,Goa,Delhi,South,Tuesday
+12/19/2013,Rachel Gomez,Nestle Kit Kat Cone,4,259,1036,Pune,Delhi,West,Thursday
+3/18/2013,Christina Fuller,Nestle Maxibon Cookie,4,462,1848,Goa,Jammu and Kashmir,South,Monday
+5/25/2013,Cecilia Manning,Nestle Nobby Bobby,5,424,2120,Darjeeling,Delhi,West,Saturday
+4/28/2013,Max Rodgers,Nestle Maxibon Cookie,5,226,1130,Goa,Kerala,North,Sunday
+1/24/2013,Rachel Gomez,Nestle Aero Mint Potz,5,297,1485,Nainital,Uttarakhand,South,Thursday
+2/2/2013,Christina Fuller,Nestle Nobby Bobby,5,439,2195,Delhi,Uttarakhand,East,Saturday
+7/7/2013,Trevor Jones,Nestle Nobby Bobby,4,237,948,Nagpur,Telangana,West,Sunday
+1/24/2013,Cecilia Manning,Nestle Rolo Potz,1,331,331,Shimla,Gujarat,West,Thursday
+2/24/2013,Trevor Jones,Nestle Aero Mint Potz,2,383,766,Ranchi,Goa,West,Sunday
+9/24/2013,Rachel Gomez,Nestle Fab,4,307,1228,Srinagar,Jammu and Kashmir,East,Tuesday
+2/14/2013,Shari Silva,Nestle Smarties Pop-Up,3,283,849,Ahmedabad,Jammu and Kashmir,South,Thursday
+5/9/2013,Cecilia Manning,Nestle Fab,5,291,1455,Hyderabad,West Bengal,South,Thursday
+4/4/2013,Don Gonzales,Nestle Rolo Potz,4,490,1960,Nagpur,Jammu and Kashmir,South,Thursday
+3/4/2013,Max Rodgers,Nestle Nobby Bobby,2,214,428,Goa,Gujarat,South,Monday
+7/1/2013,Rachel Gomez,Nestle Fab,5,499,2495,Nainital,Karnataka,North,Monday
+10/18/2013,Christina Fuller,Nestle Milky Bar Stick,2,235,470,Jodhpur,Himachal Pradesh,East,Friday
+4/28/2013,Salvador Bass,Nestle Milky Bar Stick,1,235,235,Darjeeling,Karnataka,East,Sunday
+1/25/2013,Salvador Bass,Nestle Fab,2,250,500,Jodhpur,Karnataka,East,Friday
+7/21/2013,Christina Fuller,Nestle Kit Kat Cone,5,314,1570,Cochin,Rajasthan,North,Sunday
+5/11/2013,Trevor Jones,Nestle Nobby Bobby,4,291,1164,Cochin,Jharkhand,North,Saturday
+1/21/2013,Ruben Nunez,Nestle Rowntree Fruit Pastil,5,487,2435,Mumbai,Jharkhand,South,Monday
+4/20/2013,Cecilia Manning,Nestle Rowntree Fruit Pastil,1,402,402,Nagpur,West Bengal,South,Saturday
+12/2/2013,Rachel Gomez,Nestle Aero Mint Potz,2,223,446,Nagpur,Jammu and Kashmir,West,Monday
+4/25/2013,Trevor Jones,Nestle Milky Bar Stick,3,298,894,Nainital,West Bengal,North,Thursday
+6/26/2013,Shari Silva,Nestle Rolo Potz,5,241,1205,Nagpur,Karnataka,South,Wednesday
+5/15/2013,Christina Fuller,Nestle Kit Kat Cone,1,340,340,Darjeeling,Uttar Pradesh,South,Wednesday
+8/8/2013,Rachel Gomez,Nestle Milky Bar Stick,4,415,1660,Ahmedabad,Goa,South,Thursday
+4/26/2013,Ruben Nunez,Nestle Milky Bar Stick,1,223,223,Shimla,Himachal Pradesh,East,Friday
+4/24/2013,Max Rodgers,Nestle Rolo Potz,3,286,858,Pune,Maharashtra,West,Wednesday
+3/7/2013,Trevor Jones,Nestle Toffee Crumble,1,313,313,Durgapur,West Bengal,North,Thursday
+12/23/2013,Max Rodgers,Nestle Rowntree Fruit Pastil,2,397,794,Ahmedabad,Delhi,South,Monday
+9/3/2013,Max Rodgers,Nestle Rolo Potz,1,447,447,Delhi,Kerala,West,Tuesday
+6/2/2013,Salvador Bass,Nestle Maxibon Cookie,2,422,844,Delhi,Jharkhand,South,Sunday
+9/18/2013,Max Rodgers,Nestle Maxibon Cookie,4,262,1048,Goa,West Bengal,South,Wednesday
+4/27/2013,Rachel Gomez,Nestle Fab,2,278,556,Delhi,Delhi,East,Saturday
+11/16/2013,Max Rodgers,Nestle Rolo Potz,2,371,742,Cochin,Goa,North,Saturday
+9/1/2013,Max Rodgers,Nestle Aero Mint Potz,1,435,435,Mumbai,Himachal Pradesh,West,Sunday
+8/7/2013,Rachel Gomez,Nestle Toffee Crumble,1,258,258,Goa,Karnataka,East,Wednesday
+12/18/2013,Salvador Bass,Nestle Toffee Crumble,3,452,1356,Goa,Delhi,West,Wednesday
+11/11/2013,Shari Silva,Nestle Aero Mint Potz,1,223,223,Mysore,West Bengal,West,Monday
+7/16/2013,Shari Silva,Nestle Smarties Pop-Up,3,250,750,Ranchi,Karnataka,West,Tuesday
+3/16/2013,Cecilia Manning,Nestle Rowntree Fruit Pastil,3,275,825,Srinagar,Goa,North,Saturday
+10/17/2013,Trevor Jones,Nestle Rolo Potz,3,399,1197,Patna,Uttar Pradesh,West,Thursday
+1/3/2013,Don Gonzales,Nestle Maxibon Cookie,4,402,1608,Nagpur,Uttar Pradesh,West,Thursday
+10/2/2013,Christina Fuller,Nestle Toffee Crumble,3,469,1407,Darjeeling,Gujarat,North,Wednesday
+7/28/2013,Don Gonzales,Nestle Milky Bar Stick,4,468,1872,Bangalore,Rajasthan,West,Sunday
+8/13/2013,Christina Fuller,Nestle Fab,3,290,870,Mumbai,Himachal Pradesh,South,Tuesday
+2/6/2013,Cecilia Manning,Nestle Nobby Bobby,5,346,1730,Cochin,Jharkhand,East,Wednesday
+5/8/2013,Cecilia Manning,Nestle Aero Mint Potz,3,413,1239,Durgapur,Goa,East,Wednesday
+7/21/2013,Shari Silva,Nestle Toffee Crumble,1,402,402,Kolkata,Goa,West,Sunday
+6/18/2013,Max Rodgers,Nestle Milky Bar Stick,2,247,494,Hyderabad,Gujarat,West,Tuesday
+10/6/2013,Isabel Cross,Nestle Maxibon Cookie,4,326,1304,Nainital,Jammu and Kashmir,South,Sunday
+9/16/2013,Rachel Gomez,Nestle Nobby Bobby,3,443,1329,Delhi,Uttarakhand,West,Monday
+1/4/2013,Cecilia Manning,Nestle Rolo Potz,1,487,487,Agra,Maharashtra,South,Friday
+10/16/2013,Christina Fuller,Nestle Rowntree Fruit Pastil,2,252,504,Mysore,Rajasthan,East,Wednesday
+7/8/2013,Rachel Gomez,Nestle Aero Mint Potz,2,294,588,Ahmedabad,Karnataka,West,Monday
+3/16/2013,Isabel Cross,Nestle Rolo Potz,5,462,2310,Mumbai,Gujarat,East,Saturday
+1/18/2013,Salvador Bass,Nestle Smarties Pop-Up,4,410,1640,Bangalore,Gujarat,North,Friday
+8/11/2013,Max Rodgers,Nestle Maxibon Cookie,1,214,214,Cochin,Uttarakhand,South,Sunday
+4/26/2013,Max Rodgers,Nestle Maxibon Cookie,5,253,1265,Ahmedabad,Maharashtra,North,Friday
+7/23/2013,Christina Fuller,Nestle Maxibon Cookie,4,405,1620,Jodhpur,Rajasthan,South,Tuesday
+3/1/2013,Rachel Gomez,Nestle Smarties Pop-Up,5,436,2180,Ranchi,Uttarakhand,West,Friday
+11/5/2013,Christina Fuller,Nestle Fab,1,474,474,Cochin,Rajasthan,South,Tuesday
+9/19/2013,Cecilia Manning,Nestle Rowntree Fruit Pastil,3,334,1002,Nainital,Gujarat,West,Thursday
+5/19/2013,Ruben Nunez,Nestle Milky Bar Stick,4,315,1260,Nainital,Maharashtra,West,Sunday
+10/19/2013,Shari Silva,Nestle Fab,3,495,1485,Jodhpur,Uttar Pradesh,East,Saturday
+7/15/2013,Shari Silva,Nestle Nobby Bobby,3,384,1152,Nagpur,Jharkhand,North,Monday
+7/6/2013,Ruben Nunez,Nestle Maxibon Cookie,4,301,1204,Agra,Uttar Pradesh,South,Saturday
+4/15/2013,Cecilia Manning,Nestle Toffee Crumble,3,207,621,Goa,Gujarat,West,Monday
+8/2/2013,Shari Silva,Nestle Smarties Pop-Up,2,243,486,Cochin,Uttarakhand,West,Friday
+2/6/2013,Trevor Jones,Nestle Rowntree Fruit Pastil,5,404,2020,Cochin,Rajasthan,West,Wednesday
+12/21/2013,Shari Silva,Nestle Rolo Potz,3,267,801,Delhi,Delhi,East,Saturday
+11/17/2013,Christina Fuller,Nestle Smarties Pop-Up,2,252,504,Delhi,Karnataka,East,Sunday
+11/28/2013,Ruben Nunez,Nestle Kit Kat Cone,1,458,458,Hyderabad,Jammu and Kashmir,North,Thursday
+4/13/2013,Shari Silva,Nestle Fab,1,475,475,Pune,Karnataka,South,Saturday
+9/26/2013,Shari Silva,Nestle Aero Mint Potz,3,348,1044,Darjeeling,Telangana,North,Thursday
+1/10/2013,Salvador Bass,Nestle Maxibon Cookie,2,366,732,Kolkata,Kerala,West,Thursday
+10/2/2013,Isabel Cross,Nestle Aero Mint Potz,3,427,1281,Bangalore,West Bengal,East,Wednesday
+6/1/2013,Ruben Nunez,Nestle Rolo Potz,3,295,885,Nagpur,Goa,North,Saturday
+9/23/2013,Rachel Gomez,Nestle Rowntree Fruit Pastil,3,221,663,Cochin,West Bengal,North,Monday
+10/18/2013,Salvador Bass,Nestle Kit Kat Cone,4,437,1748,Pune,Maharashtra,East,Friday
+5/15/2013,Ruben Nunez,Nestle Toffee Crumble,5,375,1875,Srinagar,Himachal Pradesh,North,Wednesday
+4/4/2013,Ruben Nunez,Nestle Milky Bar Stick,4,285,1140,Nagpur,Karnataka,West,Thursday
+11/4/2013,Christina Fuller,Nestle Toffee Crumble,2,422,844,Srinagar,Uttar Pradesh,West,Monday
+6/3/2013,Don Gonzales,Nestle Maxibon Cookie,3,271,813,Hyderabad,Maharashtra,East,Monday
+11/11/2013,Salvador Bass,Nestle Rolo Potz,1,365,365,Durgapur,Uttar Pradesh,South,Monday
+2/3/2013,Isabel Cross,Nestle Rowntree Fruit Pastil,2,467,934,Darjeeling,Rajasthan,West,Sunday
+2/18/2013,Shari Silva,Nestle Smarties Pop-Up,5,350,1750,Nagpur,Himachal Pradesh,South,Monday
+4/25/2013,Salvador Bass,Nestle Fab,1,235,235,Ranchi,Delhi,West,Thursday
+8/11/2013,Christina Fuller,Nestle Milky Bar Stick,3,256,768,Darjeeling,Maharashtra,North,Sunday
+1/15/2013,Isabel Cross,Nestle Rowntree Fruit Pastil,1,335,335,Nainital,Uttarakhand,South,Tuesday
+8/7/2013,Ruben Nunez,Nestle Aero Mint Potz,3,469,1407,Cochin,Karnataka,West,Wednesday
+6/7/2013,Shari Silva,Nestle Maxibon Cookie,3,336,1008,Hyderabad,Telangana,West,Friday
+10/26/2013,Don Gonzales,Nestle Kit Kat Cone,1,478,478,Kolkata,Uttarakhand,North,Saturday
+8/1/2013,Max Rodgers,Nestle Nobby Bobby,4,307,1228,Bangalore,Kerala,East,Thursday
+6/15/2013,Don Gonzales,Nestle Aero Mint Potz,1,448,448,Goa,Jammu and Kashmir,South,Saturday
+5/16/2013,Salvador Bass,Nestle Toffee Crumble,3,496,1488,Pune,Telangana,West,Thursday
+12/23/2013,Cecilia Manning,Nestle Rolo Potz,4,352,1408,Bangalore,Jharkhand,West,Monday
+4/22/2013,Christina Fuller,Nestle Kit Kat Cone,3,264,792,Jodhpur,Karnataka,East,Monday
+2/23/2013,Isabel Cross,Nestle Fab,2,430,860,Goa,Jammu and Kashmir,West,Saturday
+4/3/2013,Rachel Gomez,Nestle Smarties Pop-Up,4,246,984,Srinagar,Himachal Pradesh,South,Wednesday
+9/21/2013,Cecilia Manning,Nestle Smarties Pop-Up,4,259,1036,Delhi,West Bengal,North,Saturday
+3/9/2013,Christina Fuller,Nestle Maxibon Cookie,3,296,888,Bangalore,Kerala,East,Saturday
+6/1/2013,Shari Silva,Nestle Rolo Potz,3,458,1374,Ranchi,Telangana,East,Saturday
+12/23/2013,Shari Silva,Nestle Toffee Crumble,3,318,954,Jodhpur,Gujarat,West,Monday
+7/26/2013,Christina Fuller,Nestle Fab,4,383,1532,Kolkata,Kerala,North,Friday
+2/23/2013,Trevor Jones,Nestle Smarties Pop-Up,2,256,512,Srinagar,Delhi,West,Saturday
+9/21/2013,Isabel Cross,Nestle Fab,2,228,456,Goa,Uttarakhand,South,Saturday
+8/19/2013,Trevor Jones,Nestle Fab,2,291,582,Mysore,Himachal Pradesh,West,Monday
+4/10/2013,Shari Silva,Nestle Fab,5,493,2465,Cochin,Jammu and Kashmir,East,Wednesday
+7/25/2013,Isabel Cross,Nestle Fab,2,302,604,Patna,Telangana,North,Thursday
+7/2/2013,Shari Silva,Nestle Smarties Pop-Up,4,392,1568,Goa,Maharashtra,North,Tuesday
+1/26/2013,Max Rodgers,Nestle Kit Kat Cone,4,398,1592,Pune,Maharashtra,East,Saturday
+9/24/2013,Salvador Bass,Nestle Kit Kat Cone,4,212,848,Ahmedabad,Rajasthan,East,Tuesday
+6/7/2013,Max Rodgers,Nestle Milky Bar Stick,5,250,1250,Agra,Uttarakhand,West,Friday
+6/23/2013,Shari Silva,Nestle Toffee Crumble,4,281,1124,Pune,Goa,West,Sunday
+2/3/2013,Shari Silva,Nestle Rowntree Fruit Pastil,2,215,430,Cochin,Himachal Pradesh,South,Sunday
+2/18/2013,Ruben Nunez,Nestle Smarties Pop-Up,1,386,386,Mysore,Telangana,East,Monday
+4/28/2013,Isabel Cross,Nestle Toffee Crumble,5,211,1055,Pune,Himachal Pradesh,East,Sunday
+3/1/2013,Trevor Jones,Nestle Smarties Pop-Up,1,400,400,Jodhpur,Delhi,North,Friday
+6/12/2013,Trevor Jones,Nestle Smarties Pop-Up,4,212,848,Darjeeling,Jammu and Kashmir,West,Wednesday
+8/3/2013,Trevor Jones,Nestle Rowntree Fruit Pastil,1,366,366,Goa,Uttar Pradesh,West,Saturday
+2/9/2013,Cecilia Manning,Nestle Milky Bar Stick,2,461,922,Durgapur,Gujarat,North,Saturday
+11/24/2013,Salvador Bass,Nestle Fab,2,408,816,Goa,Maharashtra,East,Sunday
+3/7/2013,Don Gonzales,Nestle Fab,5,313,1565,Hyderabad,Jammu and Kashmir,South,Thursday
+5/7/2013,Rachel Gomez,Nestle Nobby Bobby,2,477,954,Jodhpur,Telangana,West,Tuesday
+12/8/2013,Cecilia Manning,Nestle Rolo Potz,1,475,475,Durgapur,Delhi,South,Sunday
+2/2/2013,Trevor Jones,Nestle Nobby Bobby,3,361,1083,Mysore,Goa,West,Saturday
+5/17/2013,Isabel Cross,Nestle Maxibon Cookie,1,473,473,Bangalore,Himachal Pradesh,East,Friday
+7/17/2013,Christina Fuller,Nestle Toffee Crumble,1,209,209,Nainital,West Bengal,North,Wednesday
+11/20/2013,Max Rodgers,Nestle Fab,2,245,490,Mumbai,Goa,South,Wednesday
+9/14/2013,Trevor Jones,Nestle Milky Bar Stick,3,467,1401,Mumbai,Jammu and Kashmir,East,Saturday
+6/13/2013,Cecilia Manning,Nestle Kit Kat Cone,2,218,436,Delhi,Karnataka,North,Thursday
+5/2/2013,Rachel Gomez,Nestle Smarties Pop-Up,5,479,2395,Patna,Gujarat,East,Thursday
+4/24/2013,Christina Fuller,Nestle Aero Mint Potz,2,336,672,Ranchi,Jammu and Kashmir,North,Wednesday
+6/7/2013,Ruben Nunez,Nestle Fab,5,311,1555,Darjeeling,Himachal Pradesh,West,Friday
+5/17/2013,Salvador Bass,Nestle Rolo Potz,5,413,2065,Delhi,Goa,East,Friday
+10/20/2013,Shari Silva,Nestle Nobby Bobby,5,489,2445,Hyderabad,West Bengal,East,Sunday
+2/12/2013,Christina Fuller,Nestle Rowntree Fruit Pastil,5,488,2440,Delhi,Maharashtra,East,Tuesday
+1/8/2013,Cecilia Manning,Nestle Rowntree Fruit Pastil,1,226,226,Mumbai,Gujarat,North,Tuesday
+4/8/2013,Trevor Jones,Nestle Nobby Bobby,3,448,1344,Pune,Jharkhand,North,Monday
+5/27/2013,Shari Silva,Nestle Kit Kat Cone,4,235,940,Srinagar,Rajasthan,South,Monday
+3/23/2013,Don Gonzales,Nestle Fab,4,417,1668,Ranchi,Telangana,East,Saturday
+5/22/2013,Trevor Jones,Nestle Maxibon Cookie,4,405,1620,Jodhpur,Maharashtra,South,Wednesday
+6/5/2013,Isabel Cross,Nestle Toffee Crumble,4,295,1180,Nagpur,Jharkhand,South,Wednesday
+1/6/2013,Shari Silva,Nestle Aero Mint Potz,5,412,2060,Ranchi,Jammu and Kashmir,East,Sunday
+6/7/2013,Salvador Bass,Nestle Milky Bar Stick,1,216,216,Goa,Uttar Pradesh,South,Friday
+3/14/2013,Salvador Bass,Nestle Toffee Crumble,3,245,735,Nagpur,Jharkhand,West,Thursday
+9/9/2013,Shari Silva,Nestle Rolo Potz,5,224,1120,Hyderabad,Himachal Pradesh,South,Monday
+9/20/2013,Don Gonzales,Nestle Rowntree Fruit Pastil,3,312,936,Nagpur,Jharkhand,East,Friday
+2/7/2013,Cecilia Manning,Nestle Kit Kat Cone,3,262,786,Ahmedabad,Telangana,West,Thursday
+5/12/2013,Ruben Nunez,Nestle Rowntree Fruit Pastil,5,283,1415,Agra,Uttarakhand,South,Sunday
+6/16/2013,Isabel Cross,Nestle Fab,1,385,385,Jodhpur,Uttarakhand,North,Sunday
+12/27/2013,Ruben Nunez,Nestle Rowntree Fruit Pastil,4,452,1808,Darjeeling,Delhi,South,Friday
+1/25/2013,Max Rodgers,Nestle Maxibon Cookie,2,214,428,Srinagar,West Bengal,South,Friday
+10/21/2013,Don Gonzales,Nestle Toffee Crumble,1,384,384,Darjeeling,Jammu and Kashmir,North,Monday
+5/3/2013,Trevor Jones,Nestle Rowntree Fruit Pastil,1,250,250,Darjeeling,Goa,North,Friday
+3/22/2013,Cecilia Manning,Nestle Toffee Crumble,5,333,1665,Durgapur,Karnataka,North,Friday
+4/8/2013,Rachel Gomez,Nestle Milky Bar Stick,3,435,1305,Mysore,Jammu and Kashmir,North,Monday
+9/7/2013,Christina Fuller,Nestle Toffee Crumble,2,477,954,Nainital,Rajasthan,East,Saturday
+11/19/2013,Salvador Bass,Nestle Aero Mint Potz,5,349,1745,Hyderabad,Karnataka,East,Tuesday
+2/28/2013,Cecilia Manning,Nestle Rolo Potz,3,276,828,Srinagar,Kerala,South,Thursday
+5/9/2013,Ruben Nunez,Nestle Nobby Bobby,1,483,483,Shimla,Gujarat,East,Thursday
+1/18/2013,Shari Silva,Nestle Nobby Bobby,3,253,759,Nagpur,Delhi,South,Friday
+1/26/2013,Shari Silva,Nestle Maxibon Cookie,5,459,2295,Shimla,Delhi,West,Saturday
+5/23/2013,Rachel Gomez,Nestle Rolo Potz,3,464,1392,Shimla,Himachal Pradesh,West,Thursday
+8/19/2013,Trevor Jones,Nestle Toffee Crumble,3,473,1419,Darjeeling,Karnataka,South,Monday
+2/26/2013,Ruben Nunez,Nestle Smarties Pop-Up,2,309,618,Bangalore,Maharashtra,South,Tuesday
+3/18/2013,Christina Fuller,Nestle Aero Mint Potz,2,204,408,Mumbai,Rajasthan,North,Monday
+12/9/2013,Ruben Nunez,Nestle Smarties Pop-Up,3,365,1095,Nainital,Gujarat,West,Monday
+6/5/2013,Christina Fuller,Nestle Rolo Potz,1,352,352,Pune,Uttarakhand,South,Wednesday
+7/22/2013,Don Gonzales,Nestle Maxibon Cookie,5,466,2330,Nagpur,Maharashtra,South,Monday
+11/17/2013,Isabel Cross,Nestle Maxibon Cookie,1,320,320,Delhi,Rajasthan,East,Sunday
+9/23/2013,Salvador Bass,Nestle Rolo Potz,1,453,453,Mumbai,West Bengal,North,Monday
+10/11/2013,Shari Silva,Nestle Fab,2,424,848,Cochin,Karnataka,East,Friday
+12/21/2013,Salvador Bass,Nestle Smarties Pop-Up,5,430,2150,Patna,West Bengal,East,Saturday
+11/7/2013,Trevor Jones,Nestle Aero Mint Potz,5,473,2365,Goa,Karnataka,North,Thursday
+1/6/2013,Ruben Nunez,Nestle Nobby Bobby,2,394,788,Darjeeling,Telangana,North,Sunday
+11/21/2013,Christina Fuller,Nestle Nobby Bobby,3,292,876,Darjeeling,Gujarat,West,Thursday
+9/18/2013,Ruben Nunez,Nestle Milky Bar Stick,2,386,772,Pune,Jammu and Kashmir,East,Wednesday
+1/9/2013,Max Rodgers,Nestle Smarties Pop-Up,2,480,960,Nainital,Karnataka,North,Wednesday
+2/23/2013,Shari Silva,Nestle Fab,2,364,728,Srinagar,Karnataka,North,Saturday
+6/28/2013,Trevor Jones,Nestle Toffee Crumble,3,281,843,Mysore,Himachal Pradesh,West,Friday
+4/5/2013,Cecilia Manning,Nestle Aero Mint Potz,1,480,480,Agra,Maharashtra,South,Friday
+4/24/2013,Christina Fuller,Nestle Toffee Crumble,4,244,976,Hyderabad,Himachal Pradesh,South,Wednesday
+1/9/2013,Christina Fuller,Nestle Aero Mint Potz,3,471,1413,Darjeeling,Gujarat,North,Wednesday
+11/4/2013,Rachel Gomez,Nestle Maxibon Cookie,4,342,1368,Pune,Himachal Pradesh,East,Monday
+3/21/2013,Ruben Nunez,Nestle Kit Kat Cone,5,351,1755,Nainital,Rajasthan,East,Thursday
+10/10/2013,Max Rodgers,Nestle Smarties Pop-Up,3,315,945,Agra,Karnataka,North,Thursday
+12/8/2013,Christina Fuller,Nestle Aero Mint Potz,4,445,1780,Nagpur,West Bengal,South,Sunday
+10/1/2013,Cecilia Manning,Nestle Kit Kat Cone,5,393,1965,Nagpur,Kerala,South,Tuesday
+11/19/2013,Ruben Nunez,Nestle Fab,2,392,784,Jodhpur,Kerala,East,Tuesday
+11/14/2013,Christina Fuller,Nestle Toffee Crumble,2,372,744,Mumbai,Uttarakhand,East,Thursday
+10/6/2013,Don Gonzales,Nestle Smarties Pop-Up,5,338,1690,Jodhpur,Kerala,West,Sunday
+9/20/2013,Ruben Nunez,Nestle Maxibon Cookie,2,378,756,Darjeeling,Maharashtra,West,Friday
+6/2/2013,Shari Silva,Nestle Smarties Pop-Up,4,297,1188,Goa,Uttar Pradesh,East,Sunday
+3/20/2013,Ruben Nunez,Nestle Aero Mint Potz,5,323,1615,Srinagar,Kerala,South,Wednesday
+8/13/2013,Christina Fuller,Nestle Rowntree Fruit Pastil,4,446,1784,Jodhpur,Uttarakhand,South,Tuesday
+2/4/2013,Salvador Bass,Nestle Smarties Pop-Up,5,493,2465,Darjeeling,Goa,East,Monday
+12/24/2013,Cecilia Manning,Nestle Smarties Pop-Up,1,364,364,Mysore,Goa,East,Tuesday
+12/3/2013,Max Rodgers,Nestle Maxibon Cookie,5,429,2145,Srinagar,Kerala,North,Tuesday
+2/6/2013,Christina Fuller,Nestle Milky Bar Stick,1,200,200,Patna,Delhi,North,Wednesday
+7/21/2013,Max Rodgers,Nestle Milky Bar Stick,2,301,602,Srinagar,Maharashtra,South,Sunday
+7/18/2013,Cecilia Manning,Nestle Maxibon Cookie,4,288,1152,Mysore,Goa,East,Thursday
+4/19/2013,Shari Silva,Nestle Smarties Pop-Up,5,452,2260,Hyderabad,Goa,East,Friday
+9/11/2013,Rachel Gomez,Nestle Fab,4,306,1224,Kolkata,Jharkhand,East,Wednesday
+1/3/2013,Ruben Nunez,Nestle Toffee Crumble,1,238,238,Srinagar,Telangana,North,Thursday
+1/10/2013,Max Rodgers,Nestle Toffee Crumble,3,415,1245,Mysore,Goa,West,Thursday
+3/22/2013,Ruben Nunez,Nestle Toffee Crumble,3,304,912,Darjeeling,Goa,East,Friday
+12/22/2013,Rachel Gomez,Nestle Rowntree Fruit Pastil,5,375,1875,Delhi,Uttar Pradesh,West,Sunday
+12/14/2013,Rachel Gomez,Nestle Milky Bar Stick,2,245,490,Pune,Delhi,South,Saturday
+8/25/2013,Trevor Jones,Nestle Nobby Bobby,4,452,1808,Shimla,Goa,North,Sunday
+4/27/2013,Cecilia Manning,Nestle Toffee Crumble,4,358,1432,Ranchi,Jammu and Kashmir,East,Saturday
+9/1/2013,Cecilia Manning,Nestle Nobby Bobby,2,340,680,Pune,Delhi,North,Sunday
+3/23/2013,Don Gonzales,Nestle Fab,2,301,602,Ahmedabad,Maharashtra,North,Saturday
+2/1/2013,Shari Silva,Nestle Milky Bar Stick,4,485,1940,Nagpur,Rajasthan,North,Friday
+7/9/2013,Shari Silva,Nestle Toffee Crumble,5,211,1055,Ranchi,Kerala,East,Tuesday
+3/26/2013,Rachel Gomez,Nestle Maxibon Cookie,1,243,243,Pune,Delhi,South,Tuesday
+7/26/2013,Salvador Bass,Nestle Smarties Pop-Up,5,409,2045,Nagpur,Himachal Pradesh,South,Friday
+1/8/2013,Rachel Gomez,Nestle Nobby Bobby,5,428,2140,Srinagar,Kerala,West,Tuesday
+12/14/2013,Shari Silva,Nestle Milky Bar Stick,2,418,836,Nainital,Rajasthan,West,Saturday
+8/6/2013,Trevor Jones,Nestle Fab,5,442,2210,Nagpur,Maharashtra,West,Tuesday
+8/18/2013,Shari Silva,Nestle Rolo Potz,2,379,758,Mysore,Uttarakhand,North,Sunday
+2/7/2013,Christina Fuller,Nestle Smarties Pop-Up,5,491,2455,Ranchi,Kerala,East,Thursday
+10/14/2013,Christina Fuller,Nestle Rolo Potz,4,207,828,Nagpur,Telangana,North,Monday
+6/20/2013,Salvador Bass,Nestle Fab,5,292,1460,Darjeeling,Rajasthan,East,Thursday
+6/3/2013,Ruben Nunez,Nestle Nobby Bobby,4,431,1724,Goa,Goa,East,Monday
+9/26/2013,Trevor Jones,Nestle Maxibon Cookie,3,465,1395,Ranchi,Maharashtra,East,Thursday
+6/14/2013,Don Gonzales,Nestle Maxibon Cookie,3,341,1023,Mysore,Goa,West,Friday
+6/19/2013,Salvador Bass,Nestle Fab,4,302,1208,Ranchi,Delhi,North,Wednesday
+11/21/2013,Cecilia Manning,Nestle Fab,3,327,981,Cochin,Uttar Pradesh,East,Thursday
+11/12/2013,Isabel Cross,Nestle Milky Bar Stick,4,209,836,Durgapur,Uttarakhand,East,Tuesday
+11/1/2013,Ruben Nunez,Nestle Maxibon Cookie,2,385,770,Nagpur,Maharashtra,East,Friday
+7/10/2013,Ruben Nunez,Nestle Milky Bar Stick,3,377,1131,Shimla,Rajasthan,North,Wednesday
+9/13/2013,Cecilia Manning,Nestle Rowntree Fruit Pastil,2,475,950,Nainital,Delhi,West,Friday
+1/15/2013,Christina Fuller,Nestle Milky Bar Stick,2,253,506,Kolkata,Maharashtra,South,Tuesday
+3/7/2013,Isabel Cross,Nestle Rowntree Fruit Pastil,4,434,1736,Mysore,Himachal Pradesh,East,Thursday
+7/14/2013,Christina Fuller,Nestle Kit Kat Cone,2,430,860,Delhi,Uttar Pradesh,West,Sunday
+9/8/2013,Don Gonzales,Nestle Maxibon Cookie,5,415,2075,Darjeeling,West Bengal,North,Sunday
+5/22/2013,Max Rodgers,Nestle Milky Bar Stick,2,344,688,Nainital,Kerala,South,Wednesday
+3/3/2013,Trevor Jones,Nestle Milky Bar Stick,5,448,2240,Ranchi,Karnataka,South,Sunday
+4/26/2013,Salvador Bass,Nestle Smarties Pop-Up,2,208,416,Nainital,Uttarakhand,North,Friday
+9/4/2013,Isabel Cross,Nestle Rolo Potz,1,283,283,Shimla,Uttarakhand,North,Wednesday
+11/4/2013,Salvador Bass,Nestle Milky Bar Stick,2,312,624,Shimla,Gujarat,West,Monday
+2/14/2013,Cecilia Manning,Nestle Kit Kat Cone,1,341,341,Nainital,Gujarat,South,Thursday
+7/12/2013,Salvador Bass,Nestle Rolo Potz,2,285,570,Nagpur,Kerala,South,Friday
+2/13/2013,Rachel Gomez,Nestle Rowntree Fruit Pastil,3,284,852,Patna,Karnataka,West,Wednesday
+11/7/2013,Max Rodgers,Nestle Fab,2,287,574,Jodhpur,Jammu and Kashmir,North,Thursday
+4/12/2013,Christina Fuller,Nestle Rowntree Fruit Pastil,3,372,1116,Cochin,Uttar Pradesh,East,Friday
+2/16/2013,Rachel Gomez,Nestle Toffee Crumble,1,465,465,Bangalore,Delhi,West,Saturday
+4/6/2013,Rachel Gomez,Nestle Maxibon Cookie,5,223,1115,Ahmedabad,Jammu and Kashmir,South,Saturday
+1/24/2013,Cecilia Manning,Nestle Nobby Bobby,3,445,1335,Kolkata,Uttarakhand,East,Thursday
+3/25/2013,Trevor Jones,Nestle Rowntree Fruit Pastil,1,490,490,Ahmedabad,Kerala,North,Monday
+6/22/2013,Cecilia Manning,Nestle Toffee Crumble,3,339,1017,Patna,Telangana,North,Saturday
+5/7/2013,Christina Fuller,Nestle Milky Bar Stick,3,342,1026,Jodhpur,Goa,North,Tuesday
+9/21/2013,Cecilia Manning,Nestle Rolo Potz,3,249,747,Goa,Goa,West,Saturday
+8/15/2013,Christina Fuller,Nestle Smarties Pop-Up,4,264,1056,Durgapur,Karnataka,North,Thursday
+6/12/2013,Salvador Bass,Nestle Fab,1,291,291,Darjeeling,Uttarakhand,North,Wednesday
+8/5/2013,Cecilia Manning,Nestle Maxibon Cookie,3,404,1212,Ahmedabad,West Bengal,North,Monday
+6/9/2013,Cecilia Manning,Nestle Fab,5,331,1655,Agra,Goa,South,Sunday
+5/1/2013,Rachel Gomez,Nestle Milky Bar Stick,4,264,1056,Durgapur,Kerala,West,Wednesday
+8/28/2013,Trevor Jones,Nestle Smarties Pop-Up,1,213,213,Nainital,Jharkhand,South,Wednesday
+10/6/2013,Don Gonzales,Nestle Nobby Bobby,1,224,224,Kolkata,Telangana,North,Sunday
+12/11/2013,Isabel Cross,Nestle Aero Mint Potz,1,491,491,Ranchi,Gujarat,North,Wednesday
+1/20/2013,Salvador Bass,Nestle Rowntree Fruit Pastil,3,328,984,Pune,Gujarat,North,Sunday
+2/28/2013,Ruben Nunez,Nestle Toffee Crumble,5,481,2405,Delhi,Rajasthan,West,Thursday
+1/19/2013,Max Rodgers,Nestle Fab,3,411,1233,Delhi,Telangana,West,Saturday
+11/5/2013,Trevor Jones,Nestle Milky Bar Stick,2,415,830,Patna,Jharkhand,West,Tuesday
+5/5/2013,Max Rodgers,Nestle Nobby Bobby,3,297,891,Nainital,Jammu and Kashmir,North,Sunday
+1/6/2013,Shari Silva,Nestle Rowntree Fruit Pastil,2,489,978,Ahmedabad,Telangana,North,Sunday
+4/15/2013,Max Rodgers,Nestle Toffee Crumble,1,278,278,Ahmedabad,Jharkhand,North,Monday
+12/16/2013,Ruben Nunez,Nestle Milky Bar Stick,1,498,498,Agra,Himachal Pradesh,South,Monday
+7/25/2013,Rachel Gomez,Nestle Nobby Bobby,3,214,642,Ahmedabad,Kerala,South,Thursday
+5/2/2013,Shari Silva,Nestle Toffee Crumble,5,350,1750,Ranchi,Himachal Pradesh,South,Thursday
+2/6/2013,Shari Silva,Nestle Smarties Pop-Up,2,273,546,Cochin,Delhi,East,Wednesday
+11/4/2013,Salvador Bass,Nestle Smarties Pop-Up,5,454,2270,Ranchi,Rajasthan,North,Monday
+5/28/2013,Ruben Nunez,Nestle Toffee Crumble,2,474,948,Pune,Jharkhand,West,Tuesday
+10/13/2013,Christina Fuller,Nestle Maxibon Cookie,2,257,514,Srinagar,Rajasthan,West,Sunday
+6/26/2013,Max Rodgers,Nestle Rolo Potz,5,243,1215,Mysore,Gujarat,West,Wednesday
+6/16/2013,Ruben Nunez,Nestle Rowntree Fruit Pastil,2,282,564,Ranchi,Telangana,South,Sunday
+7/27/2013,Rachel Gomez,Nestle Maxibon Cookie,5,233,1165,Agra,Himachal Pradesh,South,Saturday
+7/14/2013,Ruben Nunez,Nestle Milky Bar Stick,1,229,229,Shimla,West Bengal,East,Sunday
+4/17/2013,Ruben Nunez,Nestle Smarties Pop-Up,4,223,892,Pune,Maharashtra,West,Wednesday
+4/19/2013,Rachel Gomez,Nestle Maxibon Cookie,1,238,238,Mysore,Uttar Pradesh,West,Friday
+5/26/2013,Cecilia Manning,Nestle Smarties Pop-Up,4,246,984,Darjeeling,Uttarakhand,East,Sunday
+8/28/2013,Christina Fuller,Nestle Nobby Bobby,3,337,1011,Ranchi,Telangana,North,Wednesday
+7/14/2013,Ruben Nunez,Nestle Nobby Bobby,3,410,1230,Cochin,Telangana,West,Sunday
+2/24/2013,Ruben Nunez,Nestle Maxibon Cookie,5,203,1015,Jodhpur,Telangana,East,Sunday
+11/10/2013,Don Gonzales,Nestle Maxibon Cookie,2,296,592,Kolkata,Jharkhand,South,Sunday
+7/13/2013,Isabel Cross,Nestle Milky Bar Stick,3,446,1338,Delhi,Uttar Pradesh,West,Saturday
+3/14/2013,Trevor Jones,Nestle Rowntree Fruit Pastil,4,279,1116,Mysore,West Bengal,South,Thursday
+2/3/2013,Cecilia Manning,Nestle Toffee Crumble,2,282,564,Kolkata,Telangana,West,Sunday
+4/5/2013,Shari Silva,Nestle Maxibon Cookie,5,345,1725,Jodhpur,Telangana,West,Friday
+4/21/2013,Don Gonzales,Nestle Rowntree Fruit Pastil,2,219,438,Nagpur,Goa,West,Sunday
+9/11/2013,Ruben Nunez,Nestle Rowntree Fruit Pastil,2,348,696,Kolkata,Delhi,North,Wednesday
+10/3/2013,Rachel Gomez,Nestle Fab,2,339,678,Nainital,Goa,South,Thursday
+9/1/2013,Shari Silva,Nestle Rolo Potz,2,358,716,Agra,Jharkhand,East,Sunday
+11/3/2013,Trevor Jones,Nestle Milky Bar Stick,4,461,1844,Agra,Jammu and Kashmir,West,Sunday
+11/26/2013,Cecilia Manning,Nestle Smarties Pop-Up,4,294,1176,Srinagar,Rajasthan,East,Tuesday
+2/20/2013,Rachel Gomez,Nestle Aero Mint Potz,3,292,876,Nainital,Gujarat,West,Wednesday
+7/14/2013,Ruben Nunez,Nestle Rolo Potz,2,434,868,Patna,Goa,North,Sunday
+8/27/2013,Cecilia Manning,Nestle Aero Mint Potz,2,295,590,Jodhpur,Gujarat,South,Tuesday
+3/25/2013,Don Gonzales,Nestle Rolo Potz,2,384,768,Delhi,Maharashtra,East,Monday
+5/14/2013,Isabel Cross,Nestle Rolo Potz,1,300,300,Nagpur,Gujarat,North,Tuesday
+5/25/2013,Rachel Gomez,Nestle Nobby Bobby,1,356,356,Darjeeling,Maharashtra,South,Saturday
+10/13/2013,Trevor Jones,Nestle Aero Mint Potz,3,397,1191,Bangalore,West Bengal,South,Sunday
+2/12/2013,Don Gonzales,Nestle Kit Kat Cone,5,500,2500,Mysore,Jharkhand,North,Tuesday
+6/27/2013,Rachel Gomez,Nestle Maxibon Cookie,1,366,366,Ahmedabad,Kerala,North,Thursday
+11/18/2013,Ruben Nunez,Nestle Kit Kat Cone,3,426,1278,Ahmedabad,Rajasthan,East,Monday
+5/7/2013,Max Rodgers,Nestle Nobby Bobby,5,325,1625,Darjeeling,Rajasthan,West,Tuesday
+2/8/2013,Christina Fuller,Nestle Nobby Bobby,1,387,387,Jodhpur,West Bengal,North,Friday
+12/28/2013,Max Rodgers,Nestle Rolo Potz,2,433,866,Mysore,Rajasthan,East,Saturday
+2/25/2013,Don Gonzales,Nestle Aero Mint Potz,5,485,2425,Kolkata,Jharkhand,South,Monday
+8/7/2013,Don Gonzales,Nestle Aero Mint Potz,3,466,1398,Darjeeling,Uttar Pradesh,North,Wednesday
+10/3/2013,Isabel Cross,Nestle Rolo Potz,1,337,337,Mysore,Himachal Pradesh,North,Thursday
+3/25/2013,Isabel Cross,Nestle Toffee Crumble,1,287,287,Jodhpur,Telangana,South,Monday
+10/17/2013,Trevor Jones,Nestle Smarties Pop-Up,3,272,816,Kolkata,Uttar Pradesh,North,Thursday
+9/3/2013,Cecilia Manning,Nestle Fab,2,367,734,Patna,Gujarat,West,Tuesday
+12/18/2013,Salvador Bass,Nestle Smarties Pop-Up,2,256,512,Cochin,Goa,East,Wednesday
+9/20/2013,Cecilia Manning,Nestle Toffee Crumble,4,214,856,Darjeeling,Telangana,North,Friday
+11/20/2013,Christina Fuller,Nestle Rowntree Fruit Pastil,4,409,1636,Kolkata,Kerala,South,Wednesday
+10/17/2013,Isabel Cross,Nestle Nobby Bobby,5,346,1730,Kolkata,Goa,East,Thursday
+12/13/2013,Ruben Nunez,Nestle Toffee Crumble,5,385,1925,Ahmedabad,Maharashtra,South,Friday
+11/26/2013,Christina Fuller,Nestle Nobby Bobby,4,355,1420,Patna,Karnataka,West,Tuesday
+12/19/2013,Cecilia Manning,Nestle Fab,4,235,940,Durgapur,Kerala,West,Thursday
+7/14/2013,Max Rodgers,Nestle Milky Bar Stick,2,357,714,Shimla,West Bengal,East,Sunday
+7/15/2013,Don Gonzales,Nestle Aero Mint Potz,5,499,2495,Kolkata,West Bengal,North,Monday
+11/25/2013,Trevor Jones,Nestle Aero Mint Potz,5,213,1065,Jodhpur,Delhi,West,Monday
+8/26/2013,Shari Silva,Nestle Fab,5,282,1410,Cochin,Delhi,West,Monday
+9/20/2013,Max Rodgers,Nestle Nobby Bobby,2,329,658,Jodhpur,Goa,West,Friday
+5/28/2013,Shari Silva,Nestle Maxibon Cookie,4,311,1244,Cochin,Telangana,East,Tuesday
+12/14/2013,Cecilia Manning,Nestle Aero Mint Potz,4,493,1972,Kolkata,Kerala,South,Saturday
+2/14/2013,Max Rodgers,Nestle Maxibon Cookie,3,405,1215,Ahmedabad,Telangana,East,Thursday
+5/2/2013,Shari Silva,Nestle Smarties Pop-Up,2,278,556,Darjeeling,Goa,West,Thursday
+2/25/2013,Shari Silva,Nestle Nobby Bobby,5,415,2075,Patna,Uttarakhand,West,Monday
+9/3/2013,Ruben Nunez,Nestle Smarties Pop-Up,4,433,1732,Darjeeling,Maharashtra,South,Tuesday
+5/2/2013,Ruben Nunez,Nestle Smarties Pop-Up,3,340,1020,Delhi,Gujarat,West,Thursday
+11/23/2013,Isabel Cross,Nestle Smarties Pop-Up,2,214,428,Srinagar,Goa,South,Saturday
+11/7/2013,Isabel Cross,Nestle Rowntree Fruit Pastil,4,309,1236,Delhi,Himachal Pradesh,South,Thursday
+2/25/2013,Shari Silva,Nestle Smarties Pop-Up,4,470,1880,Ahmedabad,Himachal Pradesh,East,Monday
+7/14/2013,Rachel Gomez,Nestle Rolo Potz,1,303,303,Patna,Telangana,North,Sunday
+1/9/2013,Don Gonzales,Nestle Rolo Potz,2,287,574,Shimla,Delhi,East,Wednesday
+10/18/2013,Isabel Cross,Nestle Rolo Potz,4,319,1276,Jodhpur,Goa,West,Friday
+1/11/2013,Trevor Jones,Nestle Kit Kat Cone,5,374,1870,Durgapur,Maharashtra,East,Friday
+12/10/2013,Trevor Jones,Nestle Rolo Potz,3,456,1368,Durgapur,Rajasthan,East,Tuesday
+12/23/2013,Isabel Cross,Nestle Aero Mint Potz,3,353,1059,Cochin,West Bengal,North,Monday
+10/20/2013,Shari Silva,Nestle Toffee Crumble,5,248,1240,Agra,Uttar Pradesh,East,Sunday
+10/23/2013,Salvador Bass,Nestle Rolo Potz,4,442,1768,Bangalore,Karnataka,East,Wednesday
+7/11/2013,Ruben Nunez,Nestle Aero Mint Potz,2,409,818,Patna,Uttar Pradesh,East,Thursday
+3/2/2013,Don Gonzales,Nestle Fab,5,353,1765,Hyderabad,Jharkhand,North,Saturday
+7/25/2013,Rachel Gomez,Nestle Smarties Pop-Up,3,304,912,Nainital,Uttarakhand,East,Thursday
+9/4/2013,Don Gonzales,Nestle Nobby Bobby,3,295,885,Kolkata,Jharkhand,East,Wednesday
+3/6/2013,Christina Fuller,Nestle Rowntree Fruit Pastil,3,265,795,Pune,Goa,West,Wednesday
+7/9/2013,Max Rodgers,Nestle Fab,2,434,868,Pune,Gujarat,South,Tuesday
+4/28/2013,Ruben Nunez,Nestle Aero Mint Potz,4,489,1956,Darjeeling,Telangana,West,Sunday
+7/22/2013,Salvador Bass,Nestle Milky Bar Stick,1,269,269,Bangalore,Uttar Pradesh,North,Monday
+10/28/2013,Cecilia Manning,Nestle Fab,2,301,602,Mumbai,Jharkhand,North,Monday
+9/8/2013,Cecilia Manning,Nestle Smarties Pop-Up,5,459,2295,Mysore,Maharashtra,East,Sunday
+4/26/2013,Trevor Jones,Nestle Milky Bar Stick,1,497,497,Pune,Gujarat,East,Friday
+6/28/2013,Trevor Jones,Nestle Toffee Crumble,3,320,960,Ahmedabad,West Bengal,North,Friday
+8/20/2013,Shari Silva,Nestle Rolo Potz,3,230,690,Cochin,Karnataka,East,Tuesday
+12/25/2013,Cecilia Manning,Nestle Aero Mint Potz,3,438,1314,Agra,Kerala,East,Wednesday
+7/19/2013,Shari Silva,Nestle Rolo Potz,2,471,942,Pune,Uttar Pradesh,East,Friday
+6/2/2013,Trevor Jones,Nestle Smarties Pop-Up,5,494,2470,Nagpur,Rajasthan,North,Sunday
+3/10/2013,Christina Fuller,Nestle Kit Kat Cone,4,284,1136,Srinagar,Karnataka,South,Sunday
+5/11/2013,Cecilia Manning,Nestle Fab,3,489,1467,Pune,Jammu and Kashmir,West,Saturday
+2/3/2013,Cecilia Manning,Nestle Nobby Bobby,1,298,298,Pune,Maharashtra,East,Sunday
+12/27/2013,Don Gonzales,Nestle Nobby Bobby,5,322,1610,Jodhpur,Maharashtra,East,Friday
+10/12/2013,Isabel Cross,Nestle Maxibon Cookie,3,411,1233,Mumbai,Delhi,West,Saturday
+9/2/2013,Trevor Jones,Nestle Toffee Crumble,1,473,473,Agra,Kerala,East,Monday
+10/17/2013,Trevor Jones,Nestle Nobby Bobby,4,353,1412,Kolkata,Uttar Pradesh,East,Thursday
+8/3/2013,Max Rodgers,Nestle Aero Mint Potz,2,469,938,Srinagar,Telangana,East,Saturday
+4/9/2013,Ruben Nunez,Nestle Aero Mint Potz,4,335,1340,Kolkata,Gujarat,East,Tuesday
+4/7/2013,Trevor Jones,Nestle Toffee Crumble,4,281,1124,Bangalore,Jammu and Kashmir,North,Sunday
+4/3/2013,Ruben Nunez,Nestle Toffee Crumble,4,276,1104,Shimla,Delhi,South,Wednesday
+9/7/2013,Trevor Jones,Nestle Milky Bar Stick,1,377,377,Bangalore,Karnataka,North,Saturday
+4/16/2013,Max Rodgers,Nestle Fab,2,431,862,Ahmedabad,Kerala,South,Tuesday
+1/17/2013,Isabel Cross,Nestle Fab,3,224,672,Mumbai,Karnataka,West,Thursday
+12/14/2013,Don Gonzales,Nestle Rolo Potz,1,499,499,Srinagar,Kerala,East,Saturday
+7/8/2013,Max Rodgers,Nestle Fab,4,493,1972,Darjeeling,Delhi,East,Monday
+2/2/2013,Shari Silva,Nestle Fab,5,324,1620,Goa,Rajasthan,East,Saturday
+3/9/2013,Ruben Nunez,Nestle Rolo Potz,4,411,1644,Patna,Uttar Pradesh,East,Saturday
+11/7/2013,Ruben Nunez,Nestle Rolo Potz,5,229,1145,Mumbai,Delhi,East,Thursday
+1/23/2013,Rachel Gomez,Nestle Aero Mint Potz,5,267,1335,Ranchi,Kerala,South,Wednesday
+5/28/2013,Don Gonzales,Nestle Aero Mint Potz,1,316,316,Mysore,Maharashtra,South,Tuesday
+6/25/2013,Ruben Nunez,Nestle Smarties Pop-Up,5,233,1165,Srinagar,Uttar Pradesh,East,Tuesday
+10/4/2013,Salvador Bass,Nestle Rolo Potz,4,437,1748,Ahmedabad,Jharkhand,North,Friday
+8/28/2013,Shari Silva,Nestle Aero Mint Potz,4,293,1172,Ahmedabad,Kerala,North,Wednesday
+1/23/2013,Salvador Bass,Nestle Kit Kat Cone,4,370,1480,Agra,Uttar Pradesh,East,Wednesday
+9/27/2013,Salvador Bass,Nestle Rolo Potz,5,448,2240,Pune,Himachal Pradesh,North,Friday
+6/9/2013,Salvador Bass,Nestle Milky Bar Stick,5,474,2370,Durgapur,Maharashtra,South,Sunday
+9/19/2013,Trevor Jones,Nestle Nobby Bobby,3,461,1383,Patna,Telangana,North,Thursday
+12/10/2013,Salvador Bass,Nestle Kit Kat Cone,2,299,598,Agra,Karnataka,East,Tuesday
+8/25/2013,Rachel Gomez,Nestle Milky Bar Stick,2,215,430,Kolkata,Uttarakhand,South,Sunday
+2/12/2013,Christina Fuller,Nestle Smarties Pop-Up,3,412,1236,Srinagar,West Bengal,East,Tuesday
+6/28/2013,Cecilia Manning,Nestle Fab,1,470,470,Nainital,Karnataka,South,Friday
+8/12/2013,Cecilia Manning,Nestle Maxibon Cookie,3,249,747,Delhi,Rajasthan,South,Monday
+4/13/2013,Trevor Jones,Nestle Rowntree Fruit Pastil,3,307,921,Jodhpur,Kerala,South,Saturday
+8/16/2013,Shari Silva,Nestle Maxibon Cookie,3,450,1350,Bangalore,Maharashtra,South,Friday
+7/4/2013,Rachel Gomez,Nestle Milky Bar Stick,4,333,1332,Cochin,Karnataka,West,Thursday
+6/13/2013,Christina Fuller,Nestle Rolo Potz,1,220,220,Bangalore,Maharashtra,West,Thursday
+5/20/2013,Max Rodgers,Nestle Nobby Bobby,5,350,1750,Bangalore,West Bengal,West,Monday
+7/22/2013,Rachel Gomez,Nestle Toffee Crumble,2,324,648,Durgapur,Telangana,South,Monday
+12/11/2013,Cecilia Manning,Nestle Rowntree Fruit Pastil,5,294,1470,Durgapur,Himachal Pradesh,South,Wednesday
+6/1/2013,Don Gonzales,Nestle Maxibon Cookie,5,426,2130,Hyderabad,Uttar Pradesh,South,Saturday
+3/7/2013,Rachel Gomez,Nestle Toffee Crumble,1,294,294,Patna,Kerala,West,Thursday
+2/10/2013,Ruben Nunez,Nestle Aero Mint Potz,5,271,1355,Srinagar,Uttarakhand,East,Sunday
+11/21/2013,Don Gonzales,Nestle Rowntree Fruit Pastil,1,360,360,Mysore,Uttarakhand,South,Thursday
+5/4/2013,Shari Silva,Nestle Rolo Potz,2,372,744,Nagpur,West Bengal,West,Saturday
+3/5/2013,Rachel Gomez,Nestle Rowntree Fruit Pastil,2,297,594,Mysore,Delhi,North,Tuesday
+10/19/2013,Max Rodgers,Nestle Rolo Potz,3,407,1221,Mysore,Jammu and Kashmir,West,Saturday
+7/19/2013,Shari Silva,Nestle Rowntree Fruit Pastil,4,368,1472,Darjeeling,Gujarat,South,Friday
+6/11/2013,Ruben Nunez,Nestle Rowntree Fruit Pastil,5,225,1125,Agra,Uttar Pradesh,North,Tuesday
+4/22/2013,Don Gonzales,Nestle Rolo Potz,3,254,762,Nainital,Jharkhand,East,Monday
+5/11/2013,Christina Fuller,Nestle Maxibon Cookie,4,391,1564,Hyderabad,Gujarat,West,Saturday
+8/20/2013,Rachel Gomez,Nestle Fab,2,364,728,Ranchi,Uttar Pradesh,North,Tuesday
+12/27/2013,Max Rodgers,Nestle Kit Kat Cone,4,350,1400,Ranchi,Karnataka,South,Friday
+10/22/2013,Trevor Jones,Nestle Toffee Crumble,3,308,924,Mumbai,Jammu and Kashmir,South,Tuesday
+8/1/2013,Cecilia Manning,Nestle Kit Kat Cone,1,208,208,Ahmedabad,Jharkhand,South,Thursday
+7/10/2013,Isabel Cross,Nestle Maxibon Cookie,4,207,828,Goa,Telangana,South,Wednesday
+5/1/2013,Max Rodgers,Nestle Maxibon Cookie,2,499,998,Mysore,Jammu and Kashmir,South,Wednesday
+6/26/2013,Rachel Gomez,Nestle Kit Kat Cone,1,391,391,Jodhpur,Himachal Pradesh,South,Wednesday
+9/28/2013,Cecilia Manning,Nestle Nobby Bobby,4,286,1144,Bangalore,Uttarakhand,North,Saturday
+11/22/2013,Don Gonzales,Nestle Smarties Pop-Up,3,336,1008,Nagpur,Kerala,North,Friday
+9/14/2013,Don Gonzales,Nestle Milky Bar Stick,4,257,1028,Nagpur,Telangana,East,Saturday
+8/24/2013,Max Rodgers,Nestle Aero Mint Potz,4,399,1596,Mysore,Karnataka,North,Saturday
+6/22/2013,Rachel Gomez,Nestle Smarties Pop-Up,3,480,1440,Hyderabad,Gujarat,North,Saturday
+3/4/2013,Salvador Bass,Nestle Maxibon Cookie,3,454,1362,Bangalore,Telangana,East,Monday
+11/20/2013,Max Rodgers,Nestle Toffee Crumble,1,396,396,Agra,Uttar Pradesh,West,Wednesday
+1/26/2013,Don Gonzales,Nestle Smarties Pop-Up,4,282,1128,Hyderabad,Uttarakhand,North,Saturday
+12/25/2013,Salvador Bass,Nestle Toffee Crumble,3,277,831,Durgapur,Jammu and Kashmir,North,Wednesday
+8/12/2013,Cecilia Manning,Nestle Nobby Bobby,3,417,1251,Nainital,Jharkhand,South,Monday
+11/25/2013,Don Gonzales,Nestle Nobby Bobby,4,320,1280,Pune,Uttar Pradesh,West,Monday
+5/22/2013,Trevor Jones,Nestle Rowntree Fruit Pastil,3,446,1338,Srinagar,Jammu and Kashmir,South,Wednesday
+2/16/2013,Trevor Jones,Nestle Fab,1,237,237,Kolkata,Rajasthan,South,Saturday
+10/19/2013,Cecilia Manning,Nestle Rolo Potz,4,225,900,Hyderabad,Gujarat,South,Saturday
+4/15/2013,Don Gonzales,Nestle Rowntree Fruit Pastil,2,433,866,Ranchi,Uttarakhand,West,Monday
+1/11/2013,Cecilia Manning,Nestle Maxibon Cookie,4,439,1756,Nainital,Himachal Pradesh,North,Friday
+7/11/2013,Christina Fuller,Nestle Kit Kat Cone,3,392,1176,Agra,Jharkhand,East,Thursday
+2/11/2013,Don Gonzales,Nestle Fab,1,338,338,Nainital,Gujarat,South,Monday
+4/14/2013,Cecilia Manning,Nestle Maxibon Cookie,4,237,948,Srinagar,Himachal Pradesh,West,Sunday
+2/25/2013,Cecilia Manning,Nestle Toffee Crumble,5,337,1685,Mumbai,Gujarat,East,Monday
+12/17/2013,Isabel Cross,Nestle Nobby Bobby,3,415,1245,Mumbai,Maharashtra,South,Tuesday
+9/16/2013,Isabel Cross,Nestle Fab,1,320,320,Durgapur,Uttarakhand,North,Monday
+8/12/2013,Isabel Cross,Nestle Toffee Crumble,4,353,1412,Agra,Himachal Pradesh,North,Monday
+4/15/2013,Don Gonzales,Nestle Aero Mint Potz,2,430,860,Cochin,Jharkhand,North,Monday
+6/9/2013,Shari Silva,Nestle Milky Bar Stick,3,399,1197,Ranchi,Gujarat,West,Sunday
+2/8/2013,Shari Silva,Nestle Smarties Pop-Up,5,335,1675,Agra,Gujarat,South,Friday
+5/14/2013,Isabel Cross,Nestle Fab,4,243,972,Ahmedabad,Uttarakhand,East,Tuesday
+12/21/2013,Max Rodgers,Nestle Rowntree Fruit Pastil,4,376,1504,Delhi,Uttarakhand,South,Saturday
+5/10/2013,Shari Silva,Nestle Rolo Potz,4,334,1336,Patna,Gujarat,East,Friday
+1/7/2013,Christina Fuller,Nestle Fab,3,368,1104,Patna,Uttarakhand,East,Monday
+3/3/2013,Cecilia Manning,Nestle Rowntree Fruit Pastil,4,479,1916,Nagpur,Jharkhand,North,Sunday
+4/7/2013,Cecilia Manning,Nestle Maxibon Cookie,2,281,562,Mumbai,Jharkhand,West,Sunday
+6/18/2013,Max Rodgers,Nestle Nobby Bobby,5,471,2355,Mysore,Delhi,North,Tuesday
+10/18/2013,Isabel Cross,Nestle Rowntree Fruit Pastil,2,200,400,Darjeeling,Kerala,North,Friday
+8/9/2013,Trevor Jones,Nestle Maxibon Cookie,5,262,1310,Patna,Kerala,East,Friday
+4/24/2013,Isabel Cross,Nestle Nobby Bobby,4,435,1740,Hyderabad,Himachal Pradesh,West,Wednesday
+3/8/2013,Isabel Cross,Nestle Maxibon Cookie,5,461,2305,Ahmedabad,Uttarakhand,North,Friday
+5/14/2013,Don Gonzales,Nestle Rowntree Fruit Pastil,1,293,293,Mumbai,Telangana,South,Tuesday
+11/25/2013,Ruben Nunez,Nestle Rowntree Fruit Pastil,5,245,1225,Mysore,Uttar Pradesh,North,Monday
+2/7/2013,Trevor Jones,Nestle Kit Kat Cone,2,389,778,Agra,Kerala,South,Thursday
+3/12/2013,Shari Silva,Nestle Rowntree Fruit Pastil,4,315,1260,Shimla,Delhi,South,Tuesday
+1/4/2013,Max Rodgers,Nestle Rolo Potz,2,319,638,Patna,Rajasthan,West,Friday
+7/22/2013,Isabel Cross,Nestle Milky Bar Stick,5,203,1015,Jodhpur,Uttar Pradesh,East,Monday
+12/6/2013,Ruben Nunez,Nestle Aero Mint Potz,4,224,896,Srinagar,Delhi,West,Friday
+12/12/2013,Rachel Gomez,Nestle Rowntree Fruit Pastil,1,290,290,Srinagar,Gujarat,South,Thursday
+8/24/2013,Trevor Jones,Nestle Fab,2,219,438,Pune,Delhi,South,Saturday
+1/15/2013,Rachel Gomez,Nestle Rolo Potz,3,445,1335,Jodhpur,Uttar Pradesh,West,Tuesday
+11/2/2013,Shari Silva,Nestle Aero Mint Potz,2,288,576,Kolkata,Jammu and Kashmir,South,Saturday
+6/19/2013,Cecilia Manning,Nestle Kit Kat Cone,5,216,1080,Kolkata,Maharashtra,East,Wednesday
+11/17/2013,Ruben Nunez,Nestle Fab,5,396,1980,Patna,Jammu and Kashmir,West,Sunday
+9/26/2013,Max Rodgers,Nestle Nobby Bobby,4,348,1392,Durgapur,Rajasthan,West,Thursday
+4/6/2013,Cecilia Manning,Nestle Kit Kat Cone,2,423,846,Kolkata,Telangana,East,Saturday
+10/23/2013,Max Rodgers,Nestle Toffee Crumble,1,353,353,Hyderabad,Goa,South,Wednesday
+7/14/2013,Don Gonzales,Nestle Nobby Bobby,1,290,290,Durgapur,Uttar Pradesh,East,Sunday
+12/6/2013,Cecilia Manning,Nestle Kit Kat Cone,3,411,1233,Delhi,Himachal Pradesh,East,Friday
+7/17/2013,Rachel Gomez,Nestle Toffee Crumble,3,464,1392,Pune,Jammu and Kashmir,West,Wednesday
+6/26/2013,Shari Silva,Nestle Kit Kat Cone,4,426,1704,Bangalore,Karnataka,North,Wednesday
+8/7/2013,Max Rodgers,Nestle Fab,3,215,645,Srinagar,Jharkhand,West,Wednesday
+1/13/2013,Christina Fuller,Nestle Maxibon Cookie,4,459,1836,Patna,Kerala,North,Sunday
+11/4/2013,Max Rodgers,Nestle Rolo Potz,2,243,486,Pune,Maharashtra,North,Monday
+4/6/2013,Trevor Jones,Nestle Aero Mint Potz,2,429,858,Nainital,Telangana,West,Saturday
+4/16/2013,Salvador Bass,Nestle Toffee Crumble,3,485,1455,Goa,Gujarat,West,Tuesday
+8/12/2013,Salvador Bass,Nestle Toffee Crumble,3,351,1053,Jodhpur,West Bengal,South,Monday
+4/9/2013,Ruben Nunez,Nestle Fab,5,496,2480,Jodhpur,Kerala,North,Tuesday
+7/4/2013,Shari Silva,Nestle Maxibon Cookie,3,423,1269,Cochin,Rajasthan,East,Thursday
+11/12/2013,Max Rodgers,Nestle Milky Bar Stick,4,474,1896,Mumbai,Karnataka,West,Tuesday
+8/27/2013,Don Gonzales,Nestle Maxibon Cookie,4,482,1928,Nainital,Uttarakhand,East,Tuesday
+4/26/2013,Shari Silva,Nestle Maxibon Cookie,1,448,448,Nainital,Kerala,North,Friday
+9/16/2013,Max Rodgers,Nestle Rolo Potz,2,343,686,Patna,Telangana,South,Monday
+2/11/2013,Christina Fuller,Nestle Aero Mint Potz,3,236,708,Mysore,Uttarakhand,West,Monday
+6/13/2013,Shari Silva,Nestle Maxibon Cookie,3,479,1437,Nainital,Delhi,West,Thursday
+8/27/2013,Salvador Bass,Nestle Maxibon Cookie,4,354,1416,Patna,Uttar Pradesh,South,Tuesday
+9/18/2013,Cecilia Manning,Nestle Aero Mint Potz,4,447,1788,Ahmedabad,West Bengal,East,Wednesday
+10/15/2013,Max Rodgers,Nestle Nobby Bobby,2,392,784,Darjeeling,Kerala,West,Tuesday
+6/7/2013,Rachel Gomez,Nestle Maxibon Cookie,1,297,297,Goa,Telangana,South,Friday
+5/2/2013,Salvador Bass,Nestle Nobby Bobby,5,332,1660,Goa,Karnataka,West,Thursday
+10/17/2013,Rachel Gomez,Nestle Fab,2,320,640,Ahmedabad,Goa,East,Thursday
+12/4/2013,Max Rodgers,Nestle Fab,1,372,372,Shimla,Delhi,North,Wednesday
+1/12/2013,Cecilia Manning,Nestle Aero Mint Potz,3,401,1203,Durgapur,Karnataka,West,Saturday
+1/5/2013,Salvador Bass,Nestle Smarties Pop-Up,5,273,1365,Jodhpur,Goa,East,Saturday
+5/26/2013,Max Rodgers,Nestle Kit Kat Cone,1,271,271,Goa,West Bengal,West,Sunday
+4/16/2013,Isabel Cross,Nestle Nobby Bobby,3,372,1116,Goa,Maharashtra,North,Tuesday
+2/26/2013,Salvador Bass,Nestle Toffee Crumble,1,419,419,Bangalore,Karnataka,East,Tuesday
+1/21/2013,Christina Fuller,Nestle Fab,3,238,714,Shimla,Jharkhand,South,Monday
+6/25/2013,Rachel Gomez,Nestle Rolo Potz,2,363,726,Delhi,Maharashtra,North,Tuesday
+12/18/2013,Don Gonzales,Nestle Toffee Crumble,4,459,1836,Hyderabad,Uttar Pradesh,North,Wednesday
+2/18/2013,Ruben Nunez,Nestle Maxibon Cookie,5,456,2280,Nagpur,Goa,South,Monday
+11/23/2013,Trevor Jones,Nestle Rowntree Fruit Pastil,5,327,1635,Hyderabad,Gujarat,North,Saturday
+4/27/2013,Ruben Nunez,Nestle Rowntree Fruit Pastil,1,324,324,Ranchi,Gujarat,West,Saturday
+9/8/2013,Salvador Bass,Nestle Maxibon Cookie,4,494,1976,Bangalore,Jharkhand,North,Sunday
+12/6/2013,Shari Silva,Nestle Kit Kat Cone,4,307,1228,Shimla,Kerala,South,Friday
+8/18/2013,Don Gonzales,Nestle Toffee Crumble,1,331,331,Ahmedabad,Gujarat,West,Sunday
+8/8/2013,Rachel Gomez,Nestle Fab,2,239,478,Durgapur,Maharashtra,East,Thursday
+2/23/2013,Ruben Nunez,Nestle Nobby Bobby,3,386,1158,Hyderabad,Gujarat,South,Saturday
+11/4/2013,Shari Silva,Nestle Aero Mint Potz,2,353,706,Darjeeling,Uttar Pradesh,South,Monday
+9/23/2013,Christina Fuller,Nestle Rolo Potz,1,268,268,Darjeeling,Goa,West,Monday
+2/27/2013,Rachel Gomez,Nestle Rolo Potz,1,288,288,Mumbai,Himachal Pradesh,West,Wednesday
+5/10/2013,Cecilia Manning,Nestle Maxibon Cookie,2,357,714,Hyderabad,Uttarakhand,East,Friday
+11/16/2013,Salvador Bass,Nestle Maxibon Cookie,2,364,728,Kolkata,Goa,North,Saturday
+2/21/2013,Max Rodgers,Nestle Rowntree Fruit Pastil,5,497,2485,Goa,Himachal Pradesh,East,Thursday
+1/4/2013,Rachel Gomez,Nestle Kit Kat Cone,5,420,2100,Patna,Maharashtra,South,Friday
+5/3/2013,Salvador Bass,Nestle Rowntree Fruit Pastil,1,291,291,Jodhpur,Delhi,North,Friday
+2/19/2013,Isabel Cross,Nestle Nobby Bobby,4,435,1740,Patna,Himachal Pradesh,West,Tuesday
+2/27/2013,Rachel Gomez,Nestle Nobby Bobby,2,343,686,Pune,Goa,North,Wednesday
+10/18/2013,Isabel Cross,Nestle Rowntree Fruit Pastil,3,408,1224,Kolkata,West Bengal,West,Friday
+1/6/2013,Salvador Bass,Nestle Kit Kat Cone,4,356,1424,Ahmedabad,Maharashtra,West,Sunday
+7/11/2013,Max Rodgers,Nestle Smarties Pop-Up,1,422,422,Hyderabad,Goa,East,Thursday
+2/2/2013,Trevor Jones,Nestle Kit Kat Cone,2,377,754,Jodhpur,Himachal Pradesh,West,Saturday
+9/10/2013,Salvador Bass,Nestle Maxibon Cookie,4,286,1144,Kolkata,Gujarat,West,Tuesday
+5/2/2013,Christina Fuller,Nestle Kit Kat Cone,5,397,1985,Shimla,Delhi,South,Thursday
+12/12/2013,Trevor Jones,Nestle Fab,1,453,453,Nagpur,West Bengal,East,Thursday
+7/17/2013,Rachel Gomez,Nestle Nobby Bobby,3,224,672,Nainital,Kerala,North,Wednesday
+10/11/2013,Don Gonzales,Nestle Maxibon Cookie,2,437,874,Delhi,Himachal Pradesh,North,Friday
+2/2/2013,Shari Silva,Nestle Rowntree Fruit Pastil,4,339,1356,Pune,Goa,South,Saturday
+6/21/2013,Cecilia Manning,Nestle Fab,3,496,1488,Jodhpur,Delhi,South,Friday
+3/27/2013,Cecilia Manning,Nestle Milky Bar Stick,2,214,428,Srinagar,Jharkhand,West,Wednesday
+3/11/2013,Shari Silva,Nestle Nobby Bobby,4,471,1884,Hyderabad,Rajasthan,North,Monday
+5/4/2013,Salvador Bass,Nestle Kit Kat Cone,4,435,1740,Agra,Jharkhand,West,Saturday
+8/24/2013,Trevor Jones,Nestle Kit Kat Cone,5,383,1915,Hyderabad,Karnataka,East,Saturday
+11/27/2013,Trevor Jones,Nestle Rolo Potz,4,446,1784,Delhi,Jharkhand,West,Wednesday
+12/13/2013,Ruben Nunez,Nestle Milky Bar Stick,4,289,1156,Jodhpur,Gujarat,South,Friday
+10/9/2013,Trevor Jones,Nestle Aero Mint Potz,2,325,650,Bangalore,Uttar Pradesh,North,Wednesday
+12/25/2013,Trevor Jones,Nestle Smarties Pop-Up,4,417,1668,Darjeeling,Uttar Pradesh,South,Wednesday
+8/10/2013,Shari Silva,Nestle Rowntree Fruit Pastil,5,447,2235,Agra,Telangana,East,Saturday
+12/12/2013,Cecilia Manning,Nestle Maxibon Cookie,3,232,696,Goa,Karnataka,South,Thursday
+2/21/2013,Don Gonzales,Nestle Rowntree Fruit Pastil,1,345,345,Nainital,Gujarat,East,Thursday
+11/8/2013,Trevor Jones,Nestle Fab,2,336,672,Kolkata,Telangana,West,Friday
+5/5/2013,Salvador Bass,Nestle Aero Mint Potz,1,415,415,Ahmedabad,Kerala,South,Sunday
+9/8/2013,Cecilia Manning,Nestle Nobby Bobby,5,407,2035,Shimla,Telangana,North,Sunday
+5/22/2013,Trevor Jones,Nestle Toffee Crumble,4,325,1300,Goa,Karnataka,West,Wednesday
+10/9/2013,Ruben Nunez,Nestle Fab,3,496,1488,Cochin,Gujarat,South,Wednesday
+12/17/2013,Max Rodgers,Nestle Fab,2,244,488,Delhi,West Bengal,North,Tuesday
+12/3/2013,Trevor Jones,Nestle Smarties Pop-Up,4,472,1888,Ahmedabad,Kerala,West,Tuesday
+5/17/2013,Trevor Jones,Nestle Toffee Crumble,2,294,588,Bangalore,West Bengal,North,Friday
+7/6/2013,Isabel Cross,Nestle Maxibon Cookie,4,425,1700,Ahmedabad,Rajasthan,South,Saturday
+2/13/2013,Rachel Gomez,Nestle Kit Kat Cone,4,441,1764,Kolkata,Goa,North,Wednesday
+1/25/2013,Shari Silva,Nestle Nobby Bobby,1,326,326,Goa,Telangana,South,Friday
+8/25/2013,Ruben Nunez,Nestle Milky Bar Stick,2,444,888,Shimla,Karnataka,West,Sunday
+3/15/2013,Trevor Jones,Nestle Milky Bar Stick,4,270,1080,Ahmedabad,Delhi,North,Friday
+7/1/2013,Max Rodgers,Nestle Aero Mint Potz,5,340,1700,Nainital,Jharkhand,North,Monday
+1/3/2013,Rachel Gomez,Nestle Fab,2,292,584,Agra,Uttarakhand,South,Thursday
+10/6/2013,Trevor Jones,Nestle Maxibon Cookie,5,376,1880,Srinagar,Rajasthan,South,Sunday
+6/21/2013,Cecilia Manning,Nestle Aero Mint Potz,4,412,1648,Patna,Goa,West,Friday
+7/8/2013,Christina Fuller,Nestle Milky Bar Stick,1,411,411,Agra,Uttarakhand,East,Monday
+7/16/2013,Don Gonzales,Nestle Milky Bar Stick,1,351,351,Ahmedabad,Gujarat,South,Tuesday
+12/8/2013,Salvador Bass,Nestle Rowntree Fruit Pastil,3,212,636,Goa,Rajasthan,East,Sunday
+2/25/2013,Trevor Jones,Nestle Rolo Potz,4,397,1588,Hyderabad,Telangana,South,Monday
+7/23/2013,Christina Fuller,Nestle Aero Mint Potz,2,337,674,Mumbai,Jharkhand,East,Tuesday
+2/20/2013,Cecilia Manning,Nestle Smarties Pop-Up,4,285,1140,Bangalore,Kerala,East,Wednesday
+6/9/2013,Christina Fuller,Nestle Nobby Bobby,2,261,522,Srinagar,Jammu and Kashmir,North,Sunday
+6/23/2013,Rachel Gomez,Nestle Milky Bar Stick,2,434,868,Ahmedabad,Maharashtra,East,Sunday
+2/11/2013,Shari Silva,Nestle Milky Bar Stick,5,410,2050,Nagpur,Kerala,East,Monday
+4/22/2013,Salvador Bass,Nestle Toffee Crumble,2,377,754,Durgapur,Maharashtra,South,Monday
+1/8/2013,Don Gonzales,Nestle Smarties Pop-Up,1,487,487,Shimla,Maharashtra,East,Tuesday
+5/8/2013,Max Rodgers,Nestle Kit Kat Cone,2,267,534,Nagpur,Uttar Pradesh,East,Wednesday
+8/15/2013,Christina Fuller,Nestle Milky Bar Stick,1,208,208,Darjeeling,Jharkhand,East,Thursday
+8/15/2013,Trevor Jones,Nestle Milky Bar Stick,2,456,912,Ahmedabad,Uttar Pradesh,North,Thursday
+6/12/2013,Shari Silva,Nestle Toffee Crumble,5,296,1480,Cochin,Maharashtra,West,Wednesday
+4/11/2013,Trevor Jones,Nestle Nobby Bobby,1,223,223,Jodhpur,Uttar Pradesh,West,Thursday
+10/2/2013,Ruben Nunez,Nestle Aero Mint Potz,3,256,768,Agra,Delhi,North,Wednesday
+9/2/2013,Rachel Gomez,Nestle Aero Mint Potz,5,347,1735,Srinagar,Uttarakhand,North,Monday
+9/3/2013,Isabel Cross,Nestle Milky Bar Stick,5,391,1955,Hyderabad,Karnataka,North,Tuesday
+1/2/2013,Rachel Gomez,Nestle Milky Bar Stick,4,294,1176,Mysore,Uttarakhand,North,Wednesday
+10/1/2013,Ruben Nunez,Nestle Aero Mint Potz,3,246,738,Mumbai,Uttarakhand,West,Tuesday
+9/23/2013,Rachel Gomez,Nestle Smarties Pop-Up,5,349,1745,Ahmedabad,Goa,North,Monday
+7/19/2013,Salvador Bass,Nestle Kit Kat Cone,2,307,614,Jodhpur,Rajasthan,West,Friday
+2/9/2013,Trevor Jones,Nestle Milky Bar Stick,4,245,980,Ahmedabad,Goa,South,Saturday
+6/16/2013,Don Gonzales,Nestle Maxibon Cookie,2,214,428,Delhi,Himachal Pradesh,East,Sunday
+8/23/2013,Christina Fuller,Nestle Kit Kat Cone,4,377,1508,Darjeeling,Maharashtra,South,Friday
+11/5/2013,Cecilia Manning,Nestle Nobby Bobby,4,359,1436,Durgapur,Maharashtra,West,Tuesday
+8/1/2013,Shari Silva,Nestle Kit Kat Cone,5,488,2440,Kolkata,Kerala,North,Thursday
+5/6/2013,Salvador Bass,Nestle Kit Kat Cone,1,497,497,Mysore,Delhi,West,Monday
+6/10/2013,Isabel Cross,Nestle Kit Kat Cone,4,289,1156,Srinagar,Delhi,North,Monday
+11/10/2013,Rachel Gomez,Nestle Aero Mint Potz,5,232,1160,Cochin,Himachal Pradesh,South,Sunday
+9/7/2013,Ruben Nunez,Nestle Kit Kat Cone,5,499,2495,Hyderabad,Rajasthan,South,Saturday
+7/13/2013,Shari Silva,Nestle Rowntree Fruit Pastil,3,256,768,Srinagar,Goa,East,Saturday
+2/28/2013,Trevor Jones,Nestle Maxibon Cookie,4,311,1244,Patna,Telangana,West,Thursday
+12/5/2013,Shari Silva,Nestle Maxibon Cookie,5,451,2255,Mysore,Rajasthan,West,Thursday
+1/8/2013,Shari Silva,Nestle Maxibon Cookie,2,211,422,Agra,Maharashtra,South,Tuesday
+9/23/2013,Cecilia Manning,Nestle Nobby Bobby,3,483,1449,Delhi,Uttarakhand,South,Monday
+4/1/2013,Isabel Cross,Nestle Milky Bar Stick,2,301,602,Mumbai,Maharashtra,West,Monday
+11/11/2013,Christina Fuller,Nestle Aero Mint Potz,4,323,1292,Delhi,Telangana,North,Monday
+9/5/2013,Christina Fuller,Nestle Rolo Potz,1,357,357,Nainital,Jharkhand,South,Thursday
+10/23/2013,Shari Silva,Nestle Kit Kat Cone,5,413,2065,Goa,Maharashtra,South,Wednesday
+7/27/2013,Christina Fuller,Nestle Aero Mint Potz,4,413,1652,Cochin,Kerala,South,Saturday
+4/13/2013,Shari Silva,Nestle Aero Mint Potz,3,411,1233,Darjeeling,Himachal Pradesh,West,Saturday
+12/28/2013,Rachel Gomez,Nestle Milky Bar Stick,3,431,1293,Nainital,West Bengal,North,Saturday
+11/24/2013,Rachel Gomez,Nestle Smarties Pop-Up,5,270,1350,Patna,West Bengal,North,Sunday
+12/28/2013,Rachel Gomez,Nestle Maxibon Cookie,5,475,2375,Cochin,West Bengal,East,Saturday
+9/11/2013,Salvador Bass,Nestle Nobby Bobby,4,491,1964,Nainital,Telangana,South,Wednesday
+3/24/2013,Cecilia Manning,Nestle Aero Mint Potz,5,469,2345,Shimla,Goa,North,Sunday
+8/17/2013,Christina Fuller,Nestle Rowntree Fruit Pastil,1,458,458,Kolkata,Uttar Pradesh,West,Saturday
+4/27/2013,Max Rodgers,Nestle Rowntree Fruit Pastil,2,223,446,Srinagar,Jharkhand,North,Saturday
+11/17/2013,Rachel Gomez,Nestle Smarties Pop-Up,1,496,496,Mumbai,Jammu and Kashmir,North,Sunday
+5/28/2013,Max Rodgers,Nestle Milky Bar Stick,4,362,1448,Ranchi,Jammu and Kashmir,South,Tuesday
+4/23/2013,Don Gonzales,Nestle Milky Bar Stick,3,235,705,Srinagar,Delhi,West,Tuesday
+2/6/2013,Isabel Cross,Nestle Smarties Pop-Up,3,337,1011,Shimla,Delhi,East,Wednesday
