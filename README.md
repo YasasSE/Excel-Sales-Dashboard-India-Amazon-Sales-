@@ -3,7 +3,7 @@
 This project is a dynamic and interactive Excel dashboard built to analyze sales performance across different regions and products in India. The dashboard helps visualize KPIs, product trends, and regional performance using a simulated dataset.
 
 ---
-<img src="Excel-Sales-Dashboard-India-Amazon-style-Sales-/dashboard_screenshot.png">
+
 
 ## 📁 Project Files
 
@@ -60,3 +60,5 @@ This project demonstrates:
 1. Download or clone this repository.
 2. Open the `Excel_Dashboard_Final_Output.xlsx` file in Excel.
 3. Explore the dashboard and understand the logic of KPIs and breakdown tables.
+
+<img src="dashboard_screenshot.png">
